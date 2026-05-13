@@ -19,8 +19,8 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/81820.ts
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News FHD [Alt]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
-http://on.conecty.in:80/Andre1molina/zQStqAZa/81629.ts
+#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News FHD [H265]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
+http://on.conecty.in:80/Andre1molina/zQStqAZa/166.ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -34,8 +34,8 @@ https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="2 - NEWS",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="lch214" tvg-name="GNT FHD" tvg-logo="https://onebigforx.com/gnt.png" group-title="3 - VARIEDADES",GNT
-http://on.conecty.in:80/Andre1molina/zQStqAZa/190.ts
+#EXTINF:-1 tvg-id="lch214" tvg-name="GNT FHD [H265]" tvg-logo="https://onebigforx.com/gnt.png" group-title="3 - VARIEDADES",GNT
+http://on.conecty.in:80/Andre1molina/zQStqAZa/191.ts
 
 #EXTINF:-1 tvg-id="lch771" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://onebigforx.com/discoveryhomeandhealth.png" group-title="3 - VARIEDADES",Home & Health
 http://on.conecty.in:80/Andre1molina/zQStqAZa/68.ts
@@ -43,10 +43,10 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/68.ts
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD [H265]" tvg-logo="https://onebigforx.com/hgtv.png" group-title="3 - VARIEDADES",HGTV
 http://on.conecty.in:80/Andre1molina/zQStqAZa/226.ts
 
-#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [Alt]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [Alt]
-http://on.conecty.in:80/Andre1molina/zQStqAZa/81694.ts
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [H265]" tvg-logo="https://onebigforx.com/multishow.png" group-title="Variedades",Multishow
+http://on.conecty.in:80/Andre1molina/zQStqAZa/254.ts
 
-#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://images.seeklogo.com/logo-png/42/2/modo-viagem-logo-png_seeklogo-429185.png" group-title="3 - VARIEDADES",Modo Viagem 
+#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="3 - VARIEDADES",Modo Viagem 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/242.ts
 
 
@@ -95,8 +95,8 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/423.ts
 #EXTINF:-1 tvg-id="lch149" tvg-name="History FHD [H265]" tvg-logo="https://onebigforx.com/history.png" group-title="7 - DOC",History FHD [H265]
 http://on.conecty.in:80/Andre1molina/zQStqAZa/234.ts
 
-#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD [Alt]" tvg-logo="https://onebigforx.com/history2.png" group-title="7 - DOC",History2 FHD [Alt]
-http://on.conecty.in:80/Andre1molina/zQStqAZa/81662.ts
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD [H265]" tvg-logo="https://onebigforx.com/history2.png" group-title="7 - DOC",History2 FHD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/231.ts
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="8 - MÚSICA",MTV Biggest Pop
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
