@@ -1,0 +1,270 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="1 - TV ABERTA",Globo
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="1 - TV ABERTA",SBT
+http://on.conecty.in:80/Andre1molina/zQStqAZa/691.ts
+
+#EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="1 - TV ABERTA",Band
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81736.ts
+
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="1 - TV ABERTA",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81820.ts
+
+#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News FHD [Alt]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81629.ts
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="SBT News FHD" tvg-logo="https://onebigforx.com/sbtnews.png" group-title="2 - NEWS",SBT News FHD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81703.ts
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="2 - NEWS",Record News
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="2 - NEWS",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="lch214" tvg-name="GNT FHD [Alt]" tvg-logo="https://onebigforx.com/gnt.png" group-title="3 - VARIEDADES",GNT
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81660.ts
+
+#EXTINF:-1 tvg-id="lch771" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://onebigforx.com/discoveryhomeandhealth.png" group-title="3 - VARIEDADES",Home & Health
+http://on.conecty.in:80/Andre1molina/zQStqAZa/68.ts
+
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD [H265]" tvg-logo="https://onebigforx.com/hgtv.png" group-title="3 - VARIEDADES",HGTV
+http://on.conecty.in:80/Andre1molina/zQStqAZa/226.ts
+
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [H265]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [H265]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/254.ts
+
+#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://images.seeklogo.com/logo-png/42/2/modo-viagem-logo-png_seeklogo-429185.png" group-title="3 - VARIEDADES",Modo Viagem 
+http://on.conecty.in:80/Andre1molina/zQStqAZa/242.ts
+
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="4 - KIDS",Cartoon Network
+http://on.conecty.in:80/Andre1molina/zQStqAZa/44.ts
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHe_peoulE7PJuPwY4D_dWpf2YCEFYQ3308oPHip3cTIgmilWu4PRCMhazrXLMOLDfaWIplI-xJme_V9Kslr9jYx7IuXHG6jaGk_i9pIqyO-9yZciMiE2BVJzwkhaHGw7MF4YePHQdoLQMtARAIxScRpth5thNf9VtzeJRcjXYpNtEfxL-iaTHNY-3xw/s320/nickionline.png" group-title="4 - KIDS",NickOnline  
+https://x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="4 - KIDS",Nickelodeon Clássico
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+
+#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="4 - KIDS",NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/SpongeBob-Logo.png" group-title="4 - KIDS",Bob Esponja Calça Quadrada
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+
+#EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="4 - KIDS",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="5 - COMÉDIA",Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+
+#EXTINF:-1 tvg-id="KenanKel.us@Brazil" tvg-logo="https://i.imgur.com/h9dpcgN.png" group-title="5 - COMÉDIA",Kenan & Kel
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.iCarly" tvg-name="Nickelodeon iCarly" tvg-logo="https://i.imgur.com/R6jWcqz.png" group-title="5 - COMÉDIA",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+
+#EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix FHD [Alt]" tvg-logo="https://onebigforx.com/megapix.png" group-title="6 - FILMES",MegaPix FHD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81690.ts
+
+#EXTINF:-1 tvg-id="lch2080" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://onebigforx.com/studiouniversal.png" group-title="6 - FILMES,Studio Universal FHD [H265]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/360.ts
+
+#EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax FHD [H265]" tvg-logo="https://onebigforx.com/cinemax.png" group-title="6 - FILMES",Cinemax FHD [H265]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/48.ts
+
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://onebigforx.com/paramountchannel.png" group-title="6 - FILMES",Paramount Channel FHD [H265]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/286.ts
+
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV FHD [H265]" tvg-logo="https://onebigforx.com/universalchannel.png" group-title="6 - FILMES",Universal Channel TV FHD [H265]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/423.ts
+
+#EXTINF:-1 tvg-id="lch149" tvg-name="History FHD [H265]" tvg-logo="https://onebigforx.com/history.png" group-title="7 - DOC",History FHD [H265]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/234.ts
+
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD [Alt]" tvg-logo="https://onebigforx.com/history2.png" group-title="7 - DOC",History2 FHD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81662.ts
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="8 - MÚSICA",MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dhlhq0p-1b57a982-a9a1-4250-ac9b-780d59f79495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjVmOTk2Mi0yYWE2LTRkNmMtYWQ0OC00OTNkMzY5OTZiZDIvZGhsaHEwcC0xYjU3YTk4Mi1hOWExLTQyNTAtYWM5Yi03ODBkNTlmNzk0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vX4uZCDIcnxQ9zXX6t7DH6K7AX1EpEpWsQoaxOXGMvc" group-title="8 - MÚSICA",MTV Classic  
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="8 - MÚSICA",Vevo Pop
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOrQpdoI7OowVQgTRVR16wsWAFx494RtQIj5_1ecchzMwVn5lt9EsNBm_M-YgO8nOUQIhUkMHaWoaSil1BscCzWf55gRePfgxAVRFn_t5V0vrGvwpqnEAuj_BYe6BzR4kYt4v-QTEVC113Rxhg3cMLDZmvUGjgc5FtE7Rclj3xdL4sbe0Wq5HuCP7sbw/s628/VEVO%20LATINO.png" group-title="8 - MÚSICA",Vevo Latino 
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9kB84wodIXz6ph2u9j7ztEGnCK0gm-L1ozaummqr7euNwBaSDvbEpFV712gS3vN6p5xFjqogdjDLleUUhpAhyphenhyphencmK796NhzmcYOwUiWKt8eqZNF2p-MgtPgt7rhsSOh_2RYGjUenRypStg_thBUXKTtzlkTXRfm6FrYDmxAZWOlwPVyyJ9ZUcSQqCqaw/s320/Screenshot_210-removebg-preview.png" group-title="8 - MÚSICA",Vevo Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
+
+#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1GdeuGVYWihm0IjCLCXOr4DRmYw4V0RRM2v0cwBDOLzWxqfc725LkIc528T7ET7lYvRhPoFJDN6eKKYz3xssorkv54EoGyKLyeeitVP2imLcTdINluk317djA7xBQkMXKmluRtvJhxawA4JY8xGYDSj0Hcwg2ict8lu5g76zI9cTHBQxAWISXaQBZeg/s1600/Screenshot_212-removebg-preview.png" group-title="8 - MÚSICA",Vevo 2K
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkWONbig3iNd9qeesRKG5C26UI-g5JA0Q_EXhT4cmr_yion2ys0rFo7IfBgyibt4f9TGk3CNa9n5155dKhhVSA7JPR7fAbZJ4w2wMloh1yvEFTdYQfVA4KBlwlW7XpQ8VDmX1XW2u198TkVGktw0Y5hzjFNkOYq6rDziYGGE_LzjfMm2H-P0G7wJ_eg/s486/Screenshot_213.jpg" group-title="8 - MÚSICA",Vevo 70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj24GlbYksZWfZ9vg_T4H9Jx9edbCZou9l_yUcAcZpl9Fk1Y276qpFcPesHHXlHYeE3qYulAsZmtC7Km2-grveGIYowV1sUylzQ7ICv9vAswaXBFj9g_i6ud4BIkvmBixnvjZVoS9x_hMIykVqwVJSPvlrLUnM5-eL3Ly8YkEVN1yyUNA-1yw40DEJ6xg/s1600/Screenshot_214.jpg" group-title="8 - MÚSICA",Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmYJCi1Xo7Zpx8m5IG7ICazFDyiytmiYtL8UA8fru36OVHurYD09GL8Ha4DBQpQ5OrlHGS6sGWE_BbGsnA3IwpJ9YEoa6bs2E0So-zrEsrFSwcn7m1r57Fjyxfj6SpFJfPdgbK27x2IMq9ZKtQcYF_JzNJhSCPF5_eOnhVt6cO27ddmf7xHgYvE1otg/s1600/Screenshot_215.jpg" group-title="8 - MÚSICA",Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmmmOfj3mUceOkAm1yulh2SlDK8C8I3qtocDvq-CVrh7t6HLMMw8FEmLFQdDGHRo2ur5d8f0pQbJKnIP9W45ZcF9nJ_05GuFJdr3fPtIEz29Lnkc9wWI4ofpGmY5EvvsJtta-AqrXHT8FhZzdhk77xUt3IVgZblnRGTrJhP_tx6WwI_o70trGq_dZGOA/s320/VEVO%2090%20E%2000.png" group-title="8 - MÚSICA",Vevo '90s & '00s
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="8 - MÚSICA",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="8 - MÚSICA",Totalmusic 80s 
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="8 - MÚSICA",Totalmusic 2000s 
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="8 - MÚSICA",Totalmusic Concerts 
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="8 - MÚSICA",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@Brazil" tvg-logo="https://i.imgur.com/TrG7Y84.png" group-title="8 - MÚSICA",Pluto TV Shows por Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="8 - MÚSICA",Qello Concerts by Stingray 
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="9 - FOOD",Tastemade 
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+
+#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Receitas_.png/" group-title="9 - FOOD",Receita Fast HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="10 - REALITY",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us@Brazil" tvg-logo="https://i.imgur.com/sQn6vvh.png" group-title="10 - REALITY",O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+
+#EXTINF:-1 tvg-id="MTVComoEx.us@Brazil" tvg-logo="https://i.imgur.com/sWqnNPm.png" group-title="10 - REALITY",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="11 - SPORTS",Cazé TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="11 - SPORTS",Ge TV
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="11 - SPORTS",Red Bull TV
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="11 - SPORTS",FIFA+
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@Poland" tvg-logo="https://i.imgur.com/882kd90.png" group-title="12 - PAISAGENS",Stingray Naturescape 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="12 - PAISAGENS",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="13 - STYNGRAY RADIO",Stingray Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="13 - STYNGRAY RADIO",Stingray Classic Rock 
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="13 - STYNGRAY RADIO",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="13 - STYNGRAY RADIO",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="13 - STYNGRAY RADIO",Stingray DJAZZ 
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Easy Listening  
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="13 - STYNGRAY RADIO",Stingray Euro Hits  
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="13 - STYNGRAY RADIO",Stingray Flashback 70s  
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Greatest Hits  
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Greatest Hits  
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="13 - STYNGRAY RADIO",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+
+#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="13 - STYNGRAY RADIO",Stingray Hit List  
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayHitList.ca@Poland" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="13 - STYNGRAY RADIO",Stingray Hitlist  
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
+
+
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="13 - STYNGRAY RADIO",Stingray Hot Country  
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Jukebox Oldies  
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="13 - STYNGRAY RADIO",Stingray Karaoke  
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@Brazil" tvg-logo="https://i.imgur.com/rWpLepJ.png" group-title="13 - STYNGRAY RADIO",Pluto TV Karaokê por Stingray  
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="13 - STYNGRAY RADIO",Stingray Nothin' But 90s  
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="13 - STYNGRAY RADIO",Stingray Pop Adult  
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="13 - STYNGRAY RADIO",Stingray Remember the 80s  
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="13 - STYNGRAY RADIO",Stingray Rock Alternative  
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Romance Latino  
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="13 - STYNGRAY RADIO",Stingray Smooth Jazz  
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Soft Hits  
+https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="13 - STYNGRAY RADIO",Stingray Soul Storm  
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="13 - STYNGRAY RADIO",Stingray The Spa  
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="13 - STYNGRAY RADIO",Stingray Today's KPOP  
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="13 - STYNGRAY RADIO",Stingray Today's Latin Pop  
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="13 - STYNGRAY RADIO",Stingray Urban Beat  
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray ZenLIFE  
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
