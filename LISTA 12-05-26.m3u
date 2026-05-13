@@ -25,7 +25,7 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/81629.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="SBT News FHD" tvg-logo="https://onebigforx.com/sbtnews.png" group-title="2 - NEWS",SBT News FHD
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="SBT News FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/sbtnews.png" group-title="2 - NEWS",SBT News
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81703.ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="2 - NEWS",Record News
@@ -34,8 +34,8 @@ https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="2 - NEWS",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="lch214" tvg-name="GNT FHD [Alt]" tvg-logo="https://onebigforx.com/gnt.png" group-title="3 - VARIEDADES",GNT
-http://on.conecty.in:80/Andre1molina/zQStqAZa/81660.ts
+#EXTINF:-1 tvg-id="lch214" tvg-name="GNT FHD" tvg-logo="https://onebigforx.com/gnt.png" group-title="3 - VARIEDADES",GNT
+http://on.conecty.in:80/Andre1molina/zQStqAZa/190.ts
 
 #EXTINF:-1 tvg-id="lch771" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://onebigforx.com/discoveryhomeandhealth.png" group-title="3 - VARIEDADES",Home & Health
 http://on.conecty.in:80/Andre1molina/zQStqAZa/68.ts
@@ -43,8 +43,8 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/68.ts
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD [H265]" tvg-logo="https://onebigforx.com/hgtv.png" group-title="3 - VARIEDADES",HGTV
 http://on.conecty.in:80/Andre1molina/zQStqAZa/226.ts
 
-#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [H265]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [H265]
-http://on.conecty.in:80/Andre1molina/zQStqAZa/254.ts
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [Alt]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81694.ts
 
 #EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://images.seeklogo.com/logo-png/42/2/modo-viagem-logo-png_seeklogo-429185.png" group-title="3 - VARIEDADES",Modo Viagem 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/242.ts
