@@ -16,14 +16,14 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8p8CVAqM5dckIT8pt22okw/ts
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="1 - TV ABERTA",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="1 - TV ABERTA"",Canal Brasil [Alt]
+#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="1 - TV ABERTA"",Canal Brasil 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
 
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="lch213" tvg-name="Globo News FHD [Alt]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
-http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW3q2do_v35P_rvuDv8XwJPY/ts
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5qUmxXW08Ne8FpLxaKHf6I/ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -46,7 +46,7 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1xwMkxvXSETVQ0d5WFnYnU/ts
 #EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name="> TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="3 - VARIEDADES", TLC
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW0n5V1kur4gB-rF8hblU62k/ts
 
-#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [Alt]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [Alt]
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [Alt]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5DMX50xhNBXz9_hTgOh5R8/ts
 
 #EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="3 - VARIEDADES",Modo Viagem 
@@ -82,7 +82,7 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix FHD [Alt]" tvg-logo="https://onebigforx.com/megapix.png" group-title="6 - FILMES",MegaPix 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxYPLZNv26GVKyL6XkFJoak/ts
 
-#EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="> Studio Universal FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="6 - FILMES",> Studio Universal FHD
+#EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="> Studio Universal FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="6 - FILMES",> Studio Universal
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWwRkM19NTZQ9j4v9n5c-QnI/ts
 
 #EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax FHD [H265]" tvg-logo="https://onebigforx.com/cinemax.png" group-title="6 - FILMES",Cinemax 
@@ -92,13 +92,16 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_N6m9m-lcp_8EeS6TThsxo/ts
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_iOnFdCmsn1H_YzmMAji5k/ts
 
 #EXTINF:-1 tvg-id="lch149" tvg-name="History FHD [H265]" tvg-logo="https://onebigforx.com/history.png" group-title="7 - DOC",History 
+
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="8 - MÚSICA",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="8 - MÚSICA",Totalmusic 80s 
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="8 - MÚSICA",Totalmusic 2000s 
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="8 - MÚSICA",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1Vx5uKi4-w2yOEPcasjmBg/ts
-
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="8 - MÚSICA",MTV Biggest Pop
-https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dhlhq0p-1b57a982-a9a1-4250-ac9b-780d59f79495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjVmOTk2Mi0yYWE2LTRkNmMtYWQ0OC00OTNkMzY5OTZiZDIvZGhsaHEwcC0xYjU3YTk4Mi1hOWExLTQyNTAtYWM5Yi03ODBkNTlmNzk0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vX4uZCDIcnxQ9zXX6t7DH6K7AX1EpEpWsQoaxOXGMvc" group-title="8 - MÚSICA",MTV Classic  
-https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="8 - MÚSICA",Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
@@ -124,16 +127,11 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmmmOfj3mUceOkAm1yulh2SlDK8C8I3qtocDvq-CVrh7t6HLMMw8FEmLFQdDGHRo2ur5d8f0pQbJKnIP9W45ZcF9nJ_05GuFJdr3fPtIEz29Lnkc9wWI4ofpGmY5EvvsJtta-AqrXHT8FhZzdhk77xUt3IVgZblnRGTrJhP_tx6WwI_o70trGq_dZGOA/s320/VEVO%2090%20E%2000.png" group-title="8 - MÚSICA",Vevo '90s & '00s
 https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="8 - MÚSICA",Totalmusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="8 - MÚSICA",Totalmusic 80s 
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="8 - MÚSICA",Totalmusic 2000s 
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="8 - MÚSICA",Totalmusic Concerts 
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="8 - MÚSICA",Totalmusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="8 - MÚSICA",MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dhlhq0p-1b57a982-a9a1-4250-ac9b-780d59f79495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjVmOTk2Mi0yYWE2LTRkNmMtYWQ0OC00OTNkMzY5OTZiZDIvZGhsaHEwcC0xYjU3YTk4Mi1hOWExLTQyNTAtYWM5Yi03ODBkNTlmNzk0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vX4uZCDIcnxQ9zXX6t7DH6K7AX1EpEpWsQoaxOXGMvc" group-title="8 - MÚSICA",MTV Classic  
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@Brazil" tvg-logo="https://i.imgur.com/TrG7Y84.png" group-title="8 - MÚSICA",Pluto TV Shows por Stingray
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
