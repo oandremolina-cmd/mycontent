@@ -43,6 +43,9 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWyRxLQAZbnB3hvda3oN36_8/ts
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD [H265]" tvg-logo="https://onebigforx.com/hgtv.png" group-title="3 - VARIEDADES",HGTV
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1xwMkxvXSETVQ0d5WFnYnU/ts
 
+#EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name="> TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="3 - VARIEDADES", TLC
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW0n5V1kur4gB-rF8hblU62k/ts
+
 #EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [Alt]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [Alt]
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5DMX50xhNBXz9_hTgOh5R8/ts
 
@@ -67,6 +70,9 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="4 - KIDS",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 xui-id="1282" tvg-id="" tvg-name="❆ Programa Tv Cruj" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkoRTF4oMK9AEIM2XT8TsVHCvvItleENMG6T4r_xFkpogahoxxgv-v4y-c4bCjhwTt0itlayD7ilF9pEIdkMTLVN0SVsDcWZVYNZPZCB128G4KSuNOu0ZlJS3_pzhy51YG6vTHthdIvaPvYWyQCnqQg94P69HtIewyDeeGZOglJekbjO4QovNjsy5EMQ/s320/ChatGPT_Image_14_de_mai._de_2026__13_45_02-removebg-preview.png" group-title="4 - KIDS", Tv Cruj
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_qWW4GDxgFf50UVVa6R-FM/ts
+
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="5 - COMÉDIA",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
@@ -79,8 +85,8 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix FHD [Alt]" tvg-logo="https://onebigforx.com/megapix.png" group-title="6 - FILMES",MegaPix 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxYPLZNv26GVKyL6XkFJoak/ts
 
-#EXTINF:-1 tvg-id="lch2080" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://onebigforx.com/studiouniversal.png" group-title="6 - FILMES,Studio Universal 
-http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_iOnFdCmsn1H_YzmMAji5k/ts
+#EXTINF:-1 tvg-id="lch2080" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="6 - FILMES,Studio Universal 
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWwRkM19NTZQ9j4v9n5c-QnI/ts
 
 #EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax FHD [H265]" tvg-logo="https://onebigforx.com/cinemax.png" group-title="6 - FILMES",Cinemax 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_N6m9m-lcp_8EeS6TThsxo/ts
@@ -137,6 +143,12 @@ https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="8 - MÚSICA",Qello Concerts by Stingray 
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 xui-id="821" tvg-id="" tvg-name="❆ BEE GEESS - LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGSWc9AXIA_iac2Puf9qYw3UA_KPTmiQRc4YRtP4Y5hHc28kduvRhNbqWFBVP3L1hOfcJhFnztshxfaCuwd6D-6bXIL62GEQbFQFEWtNt5pJT11wLfpl-B88CHOzRb2t9qWC79fKXaSZzjFFSwXoI5gIAn6nMraFNHqIJtieTFEEwDBPCo0K5iA4oXw/s1600/beegees-logo__1_-removebg-preview.png" group-title="8 - MÚSICA", BEE GEES
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxutq8oEC6PXXtl9NhxOMyg/ts
+
+#EXTINF:-1 xui-id="808" tvg-id="" tvg-name="❆ CAETANO VELOSO - LIVE" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh1WAOV9DtEtswLUvjPRzsCyHKCXPcm537RdxUcXzjvHDGXF1IzSyERIxPVUO-UWAYp01D36htfhqjeH7acurOlmxdht2DyTncXgTNVTncW4CcKVrsN8cSIrurP4vDNA-kTGznXDnccT1ay3j72Qyqk0XXsH6NEDMT9DhxEasDDzH338e0PsUBEKJ-5A/s320/Gemini_Generated_Image_jxfo5ajxfo5ajxfo-removebg-preview.png" group-title="8 - MÚSICA", CAETANO VELOSO
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxlHvhsxgeQ0RyPqciJYP54/ts
 
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="9 - FOOD",Tastemade 
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
