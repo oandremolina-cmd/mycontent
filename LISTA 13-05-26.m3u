@@ -22,8 +22,8 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News FHD [Alt]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
-http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5qUmxXW08Ne8FpLxaKHf6I/ts
+#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8A7BT_mJJ0wa9JVxy61Zbg/ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
