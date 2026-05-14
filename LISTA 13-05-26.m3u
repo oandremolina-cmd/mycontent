@@ -16,7 +16,7 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8p8CVAqM5dckIT8pt22okw/ts
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="1 - TV ABERTA",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil [Alt]
+#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="1 - TV ABERTA"",Canal Brasil [Alt]
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
 
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
@@ -49,7 +49,7 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW0n5V1kur4gB-rF8hblU62k/ts
 #EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [Alt]" tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow FHD [Alt]
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5DMX50xhNBXz9_hTgOh5R8/ts
 
-#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://images.seeklogo.com/logo-png/42/2/modo-viagem-logo-png_seeklogo-429185.png" group-title="3 - VARIEDADES",Modo Viagem 
+#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="3 - VARIEDADES",Modo Viagem 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1kKqAlDbR3Erd91RsRC5_Q/ts
 
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="4 - KIDS",Cartoon Network
@@ -82,13 +82,13 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix FHD [Alt]" tvg-logo="https://onebigforx.com/megapix.png" group-title="6 - FILMES",MegaPix 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxYPLZNv26GVKyL6XkFJoak/ts
 
-#EXTINF:-1 tvg-id="lch2080" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="6 - FILMES,Studio Universal 
+#EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="> Studio Universal FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="6 - FILMES",> Studio Universal FHD
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWwRkM19NTZQ9j4v9n5c-QnI/ts
 
 #EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax FHD [H265]" tvg-logo="https://onebigforx.com/cinemax.png" group-title="6 - FILMES",Cinemax 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_N6m9m-lcp_8EeS6TThsxo/ts
 
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV FHD [H265]" tvg-logo="https://onebigforx.com/universalchannel.png" group-title="6 - FILMES",Universal Channel TV 
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV FHD [H265]" tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="6 - FILMES",Universal Channel TV 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_iOnFdCmsn1H_YzmMAji5k/ts
 
 #EXTINF:-1 tvg-id="lch149" tvg-name="History FHD [H265]" tvg-logo="https://onebigforx.com/history.png" group-title="7 - DOC",History 
@@ -141,10 +141,10 @@ https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="8 - MÚSICA",Qello Concerts by Stingray 
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 xui-id="821" tvg-id="" tvg-name="❆ BEE GEESS - LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGSWc9AXIA_iac2Puf9qYw3UA_KPTmiQRc4YRtP4Y5hHc28kduvRhNbqWFBVP3L1hOfcJhFnztshxfaCuwd6D-6bXIL62GEQbFQFEWtNt5pJT11wLfpl-B88CHOzRb2t9qWC79fKXaSZzjFFSwXoI5gIAn6nMraFNHqIJtieTFEEwDBPCo0K5iA4oXw/s1600/beegees-logo__1_-removebg-preview.png" group-title="8 - MÚSICA", BEE GEES
+#EXTINF:-1 xui-id="821" tvg-id="" tvg-name="BEE GEESS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGSWc9AXIA_iac2Puf9qYw3UA_KPTmiQRc4YRtP4Y5hHc28kduvRhNbqWFBVP3L1hOfcJhFnztshxfaCuwd6D-6bXIL62GEQbFQFEWtNt5pJT11wLfpl-B88CHOzRb2t9qWC79fKXaSZzjFFSwXoI5gIAn6nMraFNHqIJtieTFEEwDBPCo0K5iA4oXw/s1600/beegees-logo__1_-removebg-preview.png" group-title="8 - MÚSICA", BEE GEES
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxutq8oEC6PXXtl9NhxOMyg/ts
 
-#EXTINF:-1 xui-id="808" tvg-id="" tvg-name="❆ CAETANO VELOSO - LIVE" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh1WAOV9DtEtswLUvjPRzsCyHKCXPcm537RdxUcXzjvHDGXF1IzSyERIxPVUO-UWAYp01D36htfhqjeH7acurOlmxdht2DyTncXgTNVTncW4CcKVrsN8cSIrurP4vDNA-kTGznXDnccT1ay3j72Qyqk0XXsH6NEDMT9DhxEasDDzH338e0PsUBEKJ-5A/s320/Gemini_Generated_Image_jxfo5ajxfo5ajxfo-removebg-preview.png" group-title="8 - MÚSICA", CAETANO VELOSO
+#EXTINF:-1 xui-id="808" tvg-id="" tvg-name="CAETANO VELOSO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh1WAOV9DtEtswLUvjPRzsCyHKCXPcm537RdxUcXzjvHDGXF1IzSyERIxPVUO-UWAYp01D36htfhqjeH7acurOlmxdht2DyTncXgTNVTncW4CcKVrsN8cSIrurP4vDNA-kTGznXDnccT1ay3j72Qyqk0XXsH6NEDMT9DhxEasDDzH338e0PsUBEKJ-5A/s320/Gemini_Generated_Image_jxfo5ajxfo5ajxfo-removebg-preview.png" group-title="8 - MÚSICA", CAETANO VELOSO
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxlHvhsxgeQ0RyPqciJYP54/ts
 
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="9 - FOOD",Tastemade 
