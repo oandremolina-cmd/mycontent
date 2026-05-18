@@ -22,8 +22,18 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News FHD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/165.ts
+#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News FHD [Alt]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News FHD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81629.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News FHD [H265]
 http://on.conecty.in:80/Andre1molina/zQStqAZa/166.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News HD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/167.ts
+#EXTINF:-1 tvg-id="lch213" tvg-name="Globo News HD [Alt]" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News HD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81630.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://onebigforx.com/globonews.png" group-title="2 - NEWS",Globo News SD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/164.ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
