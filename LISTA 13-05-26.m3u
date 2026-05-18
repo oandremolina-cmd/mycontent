@@ -22,12 +22,11 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 xui-id="255332" tvg-id="" tvg-name="❆ Globo News FHD" tvg-logo="http://avontz.fun:80/images/dsAt8cMDBjbP3mVNdeYR4ask_Pnzs5r62q1nwkPurXHU1bvS7AihQXYXORCdXQeFXuUvsnml_DrD_rYUDOyJ5g.png" group-title="2 - NEWS",❆ Globo News FHD
-http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5qUmxXW08Ne8FpLxaKHf6I/ts
-#EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="❆ Globo News HD" tvg-logo="http://avontz.fun:80/images/dsAt8cMDBjbP3mVNdeYR4ask_Pnzs5r62q1nwkPurXHU1bvS7AihQXYXORCdXQeFXuUvsnml_DrD_rYUDOyJ5g.png" group-title="2 - NEWS",❆ Globo News HD
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="2 - NEWS",Globo News FHD 
+http://on.conecty.in:80/Andre1molina/zQStqAZa/166.ts
+
+#EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="CANAIS|NOTICIAS", Globo News HD
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8A7BT_mJJ0wa9JVxy61Zbg/ts
-#EXTINF:-1 xui-id="255334" tvg-id="" tvg-name="❆ Globo News SD" tvg-logo="http://avontz.fun:80/images/dsAt8cMDBjbP3mVNdeYR4ask_Pnzs5r62q1nwkPurXHU1bvS7AihQXYXORCdXQeFXuUvsnml_DrD_rYUDOyJ5g.png" group-title="2 - NEWS",❆ Globo News SD
-http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8dpQNgmUqgxXVlVaITb2Ic/ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
