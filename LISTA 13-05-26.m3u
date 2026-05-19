@@ -1,154 +1,154 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="1 - TV ABERTA",Globo FHD
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo FHD
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW23_3BZuPmbjrURNpvEMFsE/ts
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="1 - TV ABERTA",Globo HD
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo HD
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="1 - TV ABERTA",SBT
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW-IEutGKDpSwdU1KoUmTuw4/ts
 
-#EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="1 - TV ABERTA",Band
+#EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="01 - TV ABERTA",Band
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8p8CVAqM5dckIT8pt22okw/ts
 
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="1 - TV ABERTA",TV Cultura
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="01 - TV ABERTA",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil  " tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="1 - TV ABERTA"",Canal Brasil 
+#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil  " tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="01 - TV ABERTA"",Canal Brasil 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
 
-#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="1 - TV ABERTA",Canal Gov
+#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="01 - TV ABERTA",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="2 - NEWS",Globo News FHD 
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="02 - NEWS",Globo News FHD 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/166.ts
 
-#EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="CANAIS|NOTICIAS", Globo News HD
+#EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="02 - NEWS", Globo News HD
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8A7BT_mJJ0wa9JVxy61Zbg/ts
 
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="2 - NEWS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="02 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fontedecanais.me/logos/canais/bandnews.png" group-title="2 - NEWS",Band News
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.me/logos/canais/bandnews.png" group-title="02 - NEWS",Band News
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8d6iLJ3StYdntljBDk1aQE/ts
 
-#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="2 - NEWS",TV Câmara
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="02 - NEWS",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="lch214" tvg-name="GNT" tvg-logo="https://onebigforx.com/gnt.png" group-title="3 - VARIEDADES",GNT
+#EXTINF:-1 tvg-id="lch214" tvg-name="GNT" tvg-logo="https://onebigforx.com/gnt.png" group-title="03 - VARIEDADES",GNT
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW968cYwA-FVZfQJ1UbM-Nfg/ts
 
-#EXTINF:-1 tvg-id="lch771" tvg-name="Discovery Home & Health " tvg-logo="https://onebigforx.com/discoveryhomeandhealth.png" group-title="3 - VARIEDADES",Home & Health
+#EXTINF:-1 tvg-id="lch771" tvg-name="Discovery Home & Health " tvg-logo="https://onebigforx.com/discoveryhomeandhealth.png" group-title="03 - VARIEDADES",Home & Health
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWyRxLQAZbnB3hvda3oN36_8/ts
 
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV " tvg-logo="https://onebigforx.com/hgtv.png" group-title="3 - VARIEDADES",HGTV
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV " tvg-logo="https://onebigforx.com/hgtv.png" group-title="03 - VARIEDADES",HGTV
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1xwMkxvXSETVQ0d5WFnYnU/ts
 
-#EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name=" TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="3 - VARIEDADES", TLC
+#EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name=" TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="03 - VARIEDADES", TLC
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW0n5V1kur4gB-rF8hblU62k/ts
 
-#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow " tvg-logo="https://onebigforx.com/multishow.png" group-title="3 - VARIEDADES",Multishow
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow " tvg-logo="https://onebigforx.com/multishow.png" group-title="03 - VARIEDADES",Multishow
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW5DMX50xhNBXz9_hTgOh5R8/ts
 
-#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem " tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="3 - VARIEDADES",Modo Viagem 
+#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem " tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="03 - VARIEDADES",Modo Viagem 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1kKqAlDbR3Erd91RsRC5_Q/ts
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="4 - KIDS",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="04 - KIDS",Cartoon Network
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW6j52eQrEWrjwlciP5fmqHs/ts
 
-#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHe_peoulE7PJuPwY4D_dWpf2YCEFYQ3308oPHip3cTIgmilWu4PRCMhazrXLMOLDfaWIplI-xJme_V9Kslr9jYx7IuXHG6jaGk_i9pIqyO-9yZciMiE2BVJzwkhaHGw7MF4YePHQdoLQMtARAIxScRpth5thNf9VtzeJRcjXYpNtEfxL-iaTHNY-3xw/s320/nickionline.png" group-title="4 - KIDS",NickOnline  
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHe_peoulE7PJuPwY4D_dWpf2YCEFYQ3308oPHip3cTIgmilWu4PRCMhazrXLMOLDfaWIplI-xJme_V9Kslr9jYx7IuXHG6jaGk_i9pIqyO-9yZciMiE2BVJzwkhaHGw7MF4YePHQdoLQMtARAIxScRpth5thNf9VtzeJRcjXYpNtEfxL-iaTHNY-3xw/s320/nickionline.png" group-title="04 - KIDS",NickOnline  
 https://x1co.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="4 - KIDS",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="04 - KIDS",Nickelodeon Clássico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
-#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="4 - KIDS",NickToons Brasil
+#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="04 - KIDS",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/SpongeBob-Logo.png" group-title="4 - KIDS",Bob Esponja Calça Quadrada
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/SpongeBob-Logo.png" group-title="04 - KIDS",Bob Esponja Calça Quadrada
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 
-#EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="4 - KIDS",Loading
+#EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="04 - KIDS",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="5 - COMÉDIA",Comedy Central Pluto TV
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="05 - COMÉDIA",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
-#EXTINF:-1 tvg-id="KenanKel.us@Brazil" tvg-logo="https://i.imgur.com/h9dpcgN.png" group-title="5 - COMÉDIA",Kenan & Kel
+#EXTINF:-1 tvg-id="KenanKel.us@Brazil" tvg-logo="https://i.imgur.com/h9dpcgN.png" group-title="05 - COMÉDIA",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.iCarly" tvg-name="Nickelodeon iCarly" tvg-logo="https://i.imgur.com/R6jWcqz.png" group-title="5 - COMÉDIA",Nickelodeon iCarly
+#EXTINF:-1 tvg-id="Nickelodeon.iCarly" tvg-name="Nickelodeon iCarly" tvg-logo="https://i.imgur.com/R6jWcqz.png" group-title="05 - COMÉDIA",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 
-#EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix  " tvg-logo="https://onebigforx.com/megapix.png" group-title="6 - FILMES",MegaPix 
+#EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix  " tvg-logo="https://onebigforx.com/megapix.png" group-title="06 - FILMES",MegaPix 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxYPLZNv26GVKyL6XkFJoak/ts
 
-#EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="> Studio Universal FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="6 - FILMES",> Studio Universal
+#EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="> Studio Universal FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="06 - FILMES",> Studio Universal
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWwRkM19NTZQ9j4v9n5c-QnI/ts
 
-#EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax " tvg-logo="https://onebigforx.com/cinemax.png" group-title="6 - FILMES",Cinemax 
+#EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax " tvg-logo="https://onebigforx.com/cinemax.png" group-title="06 - FILMES",Cinemax 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_N6m9m-lcp_8EeS6TThsxo/ts
 
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV " tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="6 - FILMES",Universal Channel TV 
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV " tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="06 - FILMES",Universal Channel TV 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW_iOnFdCmsn1H_YzmMAji5k/ts
 
-#EXTINF:-1 tvg-id="lch149" tvg-name="History " tvg-logo="https://onebigforx.com/history.png" group-title="7 - DOC",History 
+#EXTINF:-1 tvg-id="lch149" tvg-name="History " tvg-logo="https://onebigforx.com/history.png" group-title="07 - DOC",History 
 
-#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="8 - MÚSICA",Totalmusic
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="08 - MÚSICA",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="8 - MÚSICA",Totalmusic 80s 
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="08 - MÚSICA",Totalmusic 80s 
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="8 - MÚSICA",Totalmusic 2000s 
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="08 - MÚSICA",Totalmusic 2000s 
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="8 - MÚSICA",Totalmusic Dance
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="08 - MÚSICA",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1Vx5uKi4-w2yOEPcasjmBg/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="8 - MÚSICA",Vevo Pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="08 - MÚSICA",Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOrQpdoI7OowVQgTRVR16wsWAFx494RtQIj5_1ecchzMwVn5lt9EsNBm_M-YgO8nOUQIhUkMHaWoaSil1BscCzWf55gRePfgxAVRFn_t5V0vrGvwpqnEAuj_BYe6BzR4kYt4v-QTEVC113Rxhg3cMLDZmvUGjgc5FtE7Rclj3xdL4sbe0Wq5HuCP7sbw/s628/VEVO%20LATINO.png" group-title="8 - MÚSICA",Vevo Latino 
+#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOrQpdoI7OowVQgTRVR16wsWAFx494RtQIj5_1ecchzMwVn5lt9EsNBm_M-YgO8nOUQIhUkMHaWoaSil1BscCzWf55gRePfgxAVRFn_t5V0vrGvwpqnEAuj_BYe6BzR4kYt4v-QTEVC113Rxhg3cMLDZmvUGjgc5FtE7Rclj3xdL4sbe0Wq5HuCP7sbw/s628/VEVO%20LATINO.png" group-title="08 - MÚSICA",Vevo Latino 
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9kB84wodIXz6ph2u9j7ztEGnCK0gm-L1ozaummqr7euNwBaSDvbEpFV712gS3vN6p5xFjqogdjDLleUUhpAhyphenhyphencmK796NhzmcYOwUiWKt8eqZNF2p-MgtPgt7rhsSOh_2RYGjUenRypStg_thBUXKTtzlkTXRfm6FrYDmxAZWOlwPVyyJ9ZUcSQqCqaw/s320/Screenshot_210-removebg-preview.png" group-title="8 - MÚSICA",Vevo Hip Hop & R&B
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9kB84wodIXz6ph2u9j7ztEGnCK0gm-L1ozaummqr7euNwBaSDvbEpFV712gS3vN6p5xFjqogdjDLleUUhpAhyphenhyphencmK796NhzmcYOwUiWKt8eqZNF2p-MgtPgt7rhsSOh_2RYGjUenRypStg_thBUXKTtzlkTXRfm6FrYDmxAZWOlwPVyyJ9ZUcSQqCqaw/s320/Screenshot_210-removebg-preview.png" group-title="08 - MÚSICA",Vevo Hip Hop & R&B
 https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
 
-#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1GdeuGVYWihm0IjCLCXOr4DRmYw4V0RRM2v0cwBDOLzWxqfc725LkIc528T7ET7lYvRhPoFJDN6eKKYz3xssorkv54EoGyKLyeeitVP2imLcTdINluk317djA7xBQkMXKmluRtvJhxawA4JY8xGYDSj0Hcwg2ict8lu5g76zI9cTHBQxAWISXaQBZeg/s1600/Screenshot_212-removebg-preview.png" group-title="8 - MÚSICA",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1GdeuGVYWihm0IjCLCXOr4DRmYw4V0RRM2v0cwBDOLzWxqfc725LkIc528T7ET7lYvRhPoFJDN6eKKYz3xssorkv54EoGyKLyeeitVP2imLcTdINluk317djA7xBQkMXKmluRtvJhxawA4JY8xGYDSj0Hcwg2ict8lu5g76zI9cTHBQxAWISXaQBZeg/s1600/Screenshot_212-removebg-preview.png" group-title="08 - MÚSICA",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkWONbig3iNd9qeesRKG5C26UI-g5JA0Q_EXhT4cmr_yion2ys0rFo7IfBgyibt4f9TGk3CNa9n5155dKhhVSA7JPR7fAbZJ4w2wMloh1yvEFTdYQfVA4KBlwlW7XpQ8VDmX1XW2u198TkVGktw0Y5hzjFNkOYq6rDziYGGE_LzjfMm2H-P0G7wJ_eg/s486/Screenshot_213.jpg" group-title="8 - MÚSICA",Vevo 70s
+#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkWONbig3iNd9qeesRKG5C26UI-g5JA0Q_EXhT4cmr_yion2ys0rFo7IfBgyibt4f9TGk3CNa9n5155dKhhVSA7JPR7fAbZJ4w2wMloh1yvEFTdYQfVA4KBlwlW7XpQ8VDmX1XW2u198TkVGktw0Y5hzjFNkOYq6rDziYGGE_LzjfMm2H-P0G7wJ_eg/s486/Screenshot_213.jpg" group-title="08 - MÚSICA",Vevo 70s
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj24GlbYksZWfZ9vg_T4H9Jx9edbCZou9l_yUcAcZpl9Fk1Y276qpFcPesHHXlHYeE3qYulAsZmtC7Km2-grveGIYowV1sUylzQ7ICv9vAswaXBFj9g_i6ud4BIkvmBixnvjZVoS9x_hMIykVqwVJSPvlrLUnM5-eL3Ly8YkEVN1yyUNA-1yw40DEJ6xg/s1600/Screenshot_214.jpg" group-title="8 - MÚSICA",Vevo 80s
+#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj24GlbYksZWfZ9vg_T4H9Jx9edbCZou9l_yUcAcZpl9Fk1Y276qpFcPesHHXlHYeE3qYulAsZmtC7Km2-grveGIYowV1sUylzQ7ICv9vAswaXBFj9g_i6ud4BIkvmBixnvjZVoS9x_hMIykVqwVJSPvlrLUnM5-eL3Ly8YkEVN1yyUNA-1yw40DEJ6xg/s1600/Screenshot_214.jpg" group-title="08 - MÚSICA",Vevo 80s
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmYJCi1Xo7Zpx8m5IG7ICazFDyiytmiYtL8UA8fru36OVHurYD09GL8Ha4DBQpQ5OrlHGS6sGWE_BbGsnA3IwpJ9YEoa6bs2E0So-zrEsrFSwcn7m1r57Fjyxfj6SpFJfPdgbK27x2IMq9ZKtQcYF_JzNJhSCPF5_eOnhVt6cO27ddmf7xHgYvE1otg/s1600/Screenshot_215.jpg" group-title="8 - MÚSICA",Vevo 90s
+#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmYJCi1Xo7Zpx8m5IG7ICazFDyiytmiYtL8UA8fru36OVHurYD09GL8Ha4DBQpQ5OrlHGS6sGWE_BbGsnA3IwpJ9YEoa6bs2E0So-zrEsrFSwcn7m1r57Fjyxfj6SpFJfPdgbK27x2IMq9ZKtQcYF_JzNJhSCPF5_eOnhVt6cO27ddmf7xHgYvE1otg/s1600/Screenshot_215.jpg" group-title="08 - MÚSICA",Vevo 90s
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmmmOfj3mUceOkAm1yulh2SlDK8C8I3qtocDvq-CVrh7t6HLMMw8FEmLFQdDGHRo2ur5d8f0pQbJKnIP9W45ZcF9nJ_05GuFJdr3fPtIEz29Lnkc9wWI4ofpGmY5EvvsJtta-AqrXHT8FhZzdhk77xUt3IVgZblnRGTrJhP_tx6WwI_o70trGq_dZGOA/s320/VEVO%2090%20E%2000.png" group-title="8 - MÚSICA",Vevo '90s & '00s
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmmmOfj3mUceOkAm1yulh2SlDK8C8I3qtocDvq-CVrh7t6HLMMw8FEmLFQdDGHRo2ur5d8f0pQbJKnIP9W45ZcF9nJ_05GuFJdr3fPtIEz29Lnkc9wWI4ofpGmY5EvvsJtta-AqrXHT8FhZzdhk77xUt3IVgZblnRGTrJhP_tx6WwI_o70trGq_dZGOA/s320/VEVO%2090%20E%2000.png" group-title="08 - MÚSICA",Vevo '90s & '00s
 https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="8 - MÚSICA",MTV Biggest Pop
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="08 - MÚSICA",MTV Biggest Pop
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dhlhq0p-1b57a982-a9a1-4250-ac9b-780d59f79495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjVmOTk2Mi0yYWE2LTRkNmMtYWQ0OC00OTNkMzY5OTZiZDIvZGhsaHEwcC0xYjU3YTk4Mi1hOWExLTQyNTAtYWM5Yi03ODBkNTlmNzk0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vX4uZCDIcnxQ9zXX6t7DH6K7AX1EpEpWsQoaxOXGMvc" group-title="8 - MÚSICA",MTV Classic  
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dhlhq0p-1b57a982-a9a1-4250-ac9b-780d59f79495.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjVmOTk2Mi0yYWE2LTRkNmMtYWQ0OC00OTNkMzY5OTZiZDIvZGhsaHEwcC0xYjU3YTk4Mi1hOWExLTQyNTAtYWM5Yi03ODBkNTlmNzk0OTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vX4uZCDIcnxQ9zXX6t7DH6K7AX1EpEpWsQoaxOXGMvc" group-title="08 - MÚSICA",MTV Classic  
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@Brazil" tvg-logo="https://i.imgur.com/TrG7Y84.png" group-title="8 - MÚSICA",Pluto TV Shows por Stingray
+#EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@Brazil" tvg-logo="https://i.imgur.com/TrG7Y84.png" group-title="08 - MÚSICA",Pluto TV Shows por Stingray
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="8 - MÚSICA",Qello Concerts by Stingray 
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="08 - MÚSICA",Qello Concerts by Stingray 
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 xui-id="821" tvg-id="" tvg-name="BEE GEESS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGSWc9AXIA_iac2Puf9qYw3UA_KPTmiQRc4YRtP4Y5hHc28kduvRhNbqWFBVP3L1hOfcJhFnztshxfaCuwd6D-6bXIL62GEQbFQFEWtNt5pJT11wLfpl-B88CHOzRb2t9qWC79fKXaSZzjFFSwXoI5gIAn6nMraFNHqIJtieTFEEwDBPCo0K5iA4oXw/s1600/beegees-logo__1_-removebg-preview.png" group-title="8 - MÚSICA", BEE GEES
+#EXTINF:-1 xui-id="821" tvg-id="" tvg-name="BEE GEESS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGSWc9AXIA_iac2Puf9qYw3UA_KPTmiQRc4YRtP4Y5hHc28kduvRhNbqWFBVP3L1hOfcJhFnztshxfaCuwd6D-6bXIL62GEQbFQFEWtNt5pJT11wLfpl-B88CHOzRb2t9qWC79fKXaSZzjFFSwXoI5gIAn6nMraFNHqIJtieTFEEwDBPCo0K5iA4oXw/s1600/beegees-logo__1_-removebg-preview.png" group-title="08 - MÚSICA", BEE GEES
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxutq8oEC6PXXtl9NhxOMyg/ts
 
-#EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="9 - FOOD",Tastemade 
+#EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="09 - FOOD",Tastemade 
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 
-#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Receitas_.png/" group-title="9 - FOOD",Receita Fast HD
+#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Receitas_.png/" group-title="09 - FOOD",Receita Fast HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="10 - REALITY",MasterChef
