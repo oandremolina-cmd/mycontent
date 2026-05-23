@@ -151,19 +151,16 @@ https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 #EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Receitas_.png/" group-title="09 - FOOD",Receita Fast HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
-#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="10 - REALITY",MasterChef
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="11 - REALITY",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 
-#EXTINF:-1 tvg-id="OEncantadordeCaes.us@Brazil" tvg-logo="https://i.imgur.com/sQn6vvh.png" group-title="10 - REALITY",O Encantador de Cães
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us@Brazil" tvg-logo="https://i.imgur.com/sQn6vvh.png" group-title="11 - REALITY",O Encantador de Cães
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 
-#EXTINF:-1 tvg-id="MTVComoEx.us@Brazil" tvg-logo="https://i.imgur.com/sWqnNPm.png" group-title="10 - REALITY",MTV Com o Ex
-https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="11 - SPORTS",Cazé TV
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="10 - SPORTS",Cazé TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="11 - SPORTS",Ge TV
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="10 - SPORTS",Ge TV
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="11 - SPORTS",Red Bull TV
@@ -172,99 +169,101 @@ https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="11 - SPORTS",FIFA+
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca@Poland" tvg-logo="https://i.imgur.com/882kd90.png" group-title="12 - PAISAGENS",Stingray Naturescape 
+
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@Poland" tvg-logo="https://i.imgur.com/882kd90.png" group-title="13 - PAISAGENS",Stingray Naturescape 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
 
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="12 - PAISAGENS",Stingray Naturescape
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="13 - PAISAGENS",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="13 - STYNGRAY RADIO",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="14 - STYNGRAY RADIO",Stingray Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="13 - STYNGRAY RADIO",Stingray Classic Rock 
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="14 - STYNGRAY RADIO",Stingray Classic Rock 
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="13 - STYNGRAY RADIO",Stingray Classica
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="14 - STYNGRAY RADIO",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="13 - STYNGRAY RADIO",Stingray CMusic
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="14 - STYNGRAY RADIO",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="13 - STYNGRAY RADIO",Stingray DJAZZ 
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="14 - STYNGRAY RADIO",Stingray DJAZZ 
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Easy Listening  
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray Easy Listening  
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="13 - STYNGRAY RADIO",Stingray Euro Hits  
+#EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="14 - STYNGRAY RADIO",Stingray Euro Hits  
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="13 - STYNGRAY RADIO",Stingray Flashback 70s  
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="14 - STYNGRAY RADIO",Stingray Flashback 70s  
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Greatest Hits  
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray Greatest Hits  
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Greatest Hits  
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray Greatest Hits  
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="13 - STYNGRAY RADIO",Stingray Greatest Holiday Hits
+#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="14 - STYNGRAY RADIO",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="13 - STYNGRAY RADIO",Stingray Hit List  
+#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="14 - STYNGRAY RADIO",Stingray Hit List  
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHitList.ca@Poland" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="13 - STYNGRAY RADIO",Stingray Hitlist  
+#EXTINF:-1 tvg-id="StingrayHitList.ca@Poland" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="14 - STYNGRAY RADIO",Stingray Hitlist  
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
 
 
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="13 - STYNGRAY RADIO",Stingray Hot Country  
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="14 - STYNGRAY RADIO",Stingray Hot Country  
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Jukebox Oldies  
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray Jukebox Oldies  
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="13 - STYNGRAY RADIO",Stingray Karaoke  
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="14 - STYNGRAY RADIO",Stingray Karaoke  
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@Brazil" tvg-logo="https://i.imgur.com/rWpLepJ.png" group-title="13 - STYNGRAY RADIO",Pluto TV Karaokê por Stingray  
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@Brazil" tvg-logo="https://i.imgur.com/rWpLepJ.png" group-title="14 - STYNGRAY RADIO",Pluto TV Karaokê por Stingray  
 https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
 
-#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="13 - STYNGRAY RADIO",Stingray Nothin' But 90s  
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="14 - STYNGRAY RADIO",Stingray Nothin' But 90s  
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="13 - STYNGRAY RADIO",Stingray Pop Adult  
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="14 - STYNGRAY RADIO",Stingray Pop Adult  
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="13 - STYNGRAY RADIO",Stingray Remember the 80s  
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="14 - STYNGRAY RADIO",Stingray Remember the 80s  
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="13 - STYNGRAY RADIO",Stingray Rock Alternative  
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="14 - STYNGRAY RADIO",Stingray Rock Alternative  
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Romance Latino  
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray Romance Latino  
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="13 - STYNGRAY RADIO",Stingray Smooth Jazz  
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="14 - STYNGRAY RADIO",Stingray Smooth Jazz  
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray Soft Hits  
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray Soft Hits  
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="13 - STYNGRAY RADIO",Stingray Soul Storm  
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="14 - STYNGRAY RADIO",Stingray Soul Storm  
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="13 - STYNGRAY RADIO",Stingray The Spa  
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="14 - STYNGRAY RADIO",Stingray The Spa  
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="13 - STYNGRAY RADIO",Stingray Today's KPOP  
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="14 - STYNGRAY RADIO",Stingray Today's KPOP  
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="13 - STYNGRAY RADIO",Stingray Today's Latin Pop  
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="14 - STYNGRAY RADIO",Stingray Today's Latin Pop  
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="13 - STYNGRAY RADIO",Stingray Urban Beat  
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="14 - STYNGRAY RADIO",Stingray Urban Beat  
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="13 - STYNGRAY RADIO",Stingray ZenLIFE  
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray ZenLIFE  
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
