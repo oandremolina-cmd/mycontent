@@ -202,7 +202,7 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxutq8oEC6PXXtl9NhxOMyg/ts
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="09 - FOOD",Tastemade 
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 
-#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Receitas_.png/" group-title="09 - FOOD",Receita Fast HD
+#EXTINF:-1 tvg-id="receitas-fast" tvg-name="Receitas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Receitas_.png/" group-title="09 - FOOD",Receita Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="11 - REALITY",MasterChef
