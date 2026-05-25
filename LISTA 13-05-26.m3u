@@ -78,7 +78,7 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW1kKqAlDbR3Erd91RsRC5_Q/ts
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="04 - KIDS",Cartoon Network
-http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW6j52eQrEWrjwlciP5fmqHs/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/43.ts
 
 #EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
@@ -221,7 +221,7 @@ https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
 tvg-id="git-iptv-" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1554" provider="git_iptv",Acumuladores Obsessivos
 https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8 
 
-#EXTINF:-1 tvg-id="lg-br-355-pluto-tv-negócio-fechado" tvg-name="Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoSVG.svg" group-title="LG Brazil" tvg-chno="1176" provider="lg",355 Pluto TV Negócio Fechado
+#EXTINF:-1 tvg-id="lg-br-355-pluto-tv-negócio-fechado" tvg-name="Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1176" provider="lg",355 Pluto TV Negócio Fechado
 https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 
 #EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1602" provider="git_iptv",MTV Catfish (720p)
