@@ -13,8 +13,14 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW-IEutGKDpSwdU1KoUmTuw4/ts
 #EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="01 - TV ABERTA",Band
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW8p8CVAqM5dckIT8pt22okw/ts
 
+#EXTINF:-1 tvg-id="lg-br-144-pluto-tv-canal-uol" tvg-name="Canal UOL" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="01 - TV ABERTA" tvg-chno="1126" provider="lg",Canal UOL
+https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
+
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="01 - TV ABERTA",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="lg-br-192-diatv" tvg-name="Dia TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-uJD3BpsKJRmi_NCVIDNtRFy-R8mQcJNAqqEaSASMU6BZbr_y-NlEh185kYpGNHp9cBdklRrsdF0Xi2dv9-GPAvR3nmJkjmt41Cadmwirv43xTC7IKshFIQID2OHrzYkbfQv_S83TPwtipYr0N6gJoI2_1kQDy46TgRBtQnpN0mmfMlFb1FqC5m6OA/s1600/Logo%20(2).png" group-title="01 - TV ABERTA" tvg-chno="1142" provider="lg", Dia TV
+https://amg19706-diatv-amg19706c1-lg-br-9111.playouts.now.amagi.tv/playlist/amg19706-diatv-diatv-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]
 
 #EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil  " tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="01 - TV ABERTA"",Canal Brasil 
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW9QIRGBNlWLNXFzbicviW7s/ts
@@ -96,22 +102,22 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/1489.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjUMO7l8MCA9x2kF2OiU8flZaXU2bxHAASjAA561vEnTqVAouMbOl1chflI89-LXBgxzQwdJ6RmF4D9EBg3TFp2vcjLaT6V5a-b2vf46cefvyYketYLPymKv79CHAr2FwlxhSaHCP01cx1lQriQhvkIdcaswIQrMn5aATivuC2Ac4rhyJdGfQzfo0Gdew" group-title="05 - SÉRIES",Chapolin
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="CSI: Miami" group-title="05 - SÉRIES" tvg-chno="1573" provider="git_iptv",CSI: Miami
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="CSI: Miami" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhYeNHKgOQzLcmbYv678bQFHwIYte139jNjzQKe9SzaG5c5X8LJ8PC3r-apAzGzmNhfhiNGcSjmaiSZ0u9kBvj3pHB5H6n5vpF25BXp4Y8og-xz0OvZt6f-bNPk_KcSChMwOwX8GXwZp8ZuwO0A4QYd52Yin8sTUUmqfj2eE4L5uuUqUKfT-ZDjvOuCHw" group-title="05 - SÉRIES" tvg-chno="1573" provider="git_iptv",CSI: Miami
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="NCIS" group-title="05 - SÉRIES" tvg-chno="1617" provider="git_iptv",NCIS
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="NCIS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhU1kYarYEpKngcfJwcr5zDcgenl6CLyVK8-Lh3YkFJQe89AIMscU1n4Kxvv3xTko0hHsz_u1FAvRPYrrnBbuMzRBP8H4kQN3Fkb8-95u_lvXYj83IpTf-Wxt0uf5NX_8ItlUE1Xtv8V0_N_NUUnTwoWN9ORjBbTAfDkXxHVedwhxM6ZK663YSLsaaJxQ" group-title="05 - SÉRIES" tvg-chno="1617" provider="git_iptv",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Numbers" group-title="05 - SÉRIES" tvg-chno="1625" provider="git_iptv",Numbers
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Numbers" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjfZcs8v-Zklmzi7ktN-TvH22I33P22OlrLgNDcCbcq5n9HKOvp0u8EXBawsRBYQkokLSLw0QaVpXBWI03n6BQs8p5EJnH3XGvQh69edvGv3doeE6OcnTL4El18bN1YzoeftoV1kMME-l21aDGmpb3nMc11O1pzumA2XJZ2HTcjk_M7Fjt8ureinr9XOw" group-title="05 - SÉRIES" tvg-chno="1625" provider="git_iptv",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="A Caçadora de Relíquias" group-title="05 - SÉRIES" tvg-chno="1552" provider="git_iptv",A Caçadora de Relíquias
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="A Caçadora de Relíquias" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiSkVaYIkmhtnC-sK_nOwdAGqJbzc4XP-g8n-cCm_JpiHTVpTFme95wPkdrF618FqYxHjuPIWXE9QAw_zuCoiOZ9XXb_uYTx1qanbssRAVoY8_ozKFN9UoleauqLZH0mjV7ku3bCH1XivvN-zJcBRYWWl3ipICHlX6IBXxdLUdriXCEX_t9vlxfALPfyA" group-title="05 - SÉRIES" tvg-chno="1552" provider="git_iptv",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Jornada nas Estrelas A Nova Geração" group-title="05 - SÉRIES" tvg-chno="1589" provider="git_iptv",Jornada nas Estrelas A Nova Geração
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Jornada nas Estrelas A Nova Geração" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrRQvokfeWhqOGgqpq81VaS8ocE7V5p-9BCNUMmGP_fLvocUrePXdOnysaaA1IImzwGHW1oWKqxwWzFD5xyqcHyQAeKo3kWsJERvmDjOqkqlrzSvBRB_BWapR6ksuF1voEywWqyEDrlPnrr12zFoUfdNOYF0ZVC11Qw-8dRowlQKv_18OL10aZkoUZcg" group-title="05 - SÉRIES" tvg-chno="1589" provider="git_iptv",Jornada nas Estrelas A Nova Geração
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MacGyver" group-title="05 - SÉRIES" tvg-chno="1594" provider="git_iptv",MacGyver
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MacGyver" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjX1wkrIAUKZclFy-SQfO2mIC5p1jioZ4fuTtMtFGpsxp5PkOZF4VziZrNjuAQ2XneNwonGCc56IeIqijFrSg__lCzxNsmeKndgkDCqHrc8swnt6MurI4z97TC1HRJRc3y566KeLp7B8u0vJpXr3HqHoxeTUortmFeXXBdAhmFSdbf5aIqsiIfadahSug" group-title="05 - SÉRIES" tvg-chno="1594" provider="git_iptv",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1461.ts
 
