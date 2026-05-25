@@ -80,13 +80,13 @@ https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="04 - KIDS",Cartoon Network
 http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW6j52eQrEWrjwlciP5fmqHs/ts
 
-#EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="4 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
+#EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
-#EXTINF:-1 tvg-id="lg-br-630-nickelodeon-teen" tvg-name="630 Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logoAlt_1767888207915.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="4 - KIDS" tvg-chno="1238" provider="lg",630 Nickelodeon Teen
+#EXTINF:-1 tvg-id="lg-br-630-nickelodeon-teen" tvg-name="630 Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logoAlt_1767888207915.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1238" provider="lg",630 Nickelodeon Teen
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 
-#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="4 - KIDS",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="04 - KIDS",Nickelodeon Clássico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="04 - KIDS",Loading
