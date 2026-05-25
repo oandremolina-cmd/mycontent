@@ -206,6 +206,9 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="11 - REALITY",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MasterChef Brasil Profissionais" tvg-logo="https://images.pluto.tv/channels/681110afc188aa63faa147e0/solidLogoSVG_1749226372474.svg" group-title="11 - REALITY" tvg-chno="1597" provider="git_iptv",MasterChef Brasil Profissionais
+https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8#EXTINF:-1 
+
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us@Brazil" tvg-logo="https://i.imgur.com/sQn6vvh.png" group-title="11 - REALITY",O Encantador de Cães
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 
@@ -214,6 +217,21 @@ https://dbf2e4c1e33d49d7b1a2feb7efb03070.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="lg-br-356-mtv-catfish" tvg-name="356 MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="11 - REALITY" tvg-chno="1177" provider="lg",356 MTV Catfish
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+
+tvg-id="git-iptv-" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1554" provider="git_iptv",Acumuladores Obsessivos
+https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8 
+
+#EXTINF:-1 tvg-id="lg-br-355-pluto-tv-negócio-fechado" tvg-name="Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoSVG.svg" group-title="LG Brazil" tvg-chno="1176" provider="lg",355 Pluto TV Negócio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1602" provider="git_iptv",MTV Catfish (720p)
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Just Tattoo of Us" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1607" provider="git_iptv",MTV Just Tattoo of Us
+https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
+
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Rupaul's Drag Race" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/80b645110021931.5fe1c95fba17e.png" group-title="11 - REALITY" tvg-chno="1612" provider="git_iptv",MTV Rupaul's Drag Race
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="10 - SPORTS",Cazé TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
