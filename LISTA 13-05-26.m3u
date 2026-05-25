@@ -88,9 +88,6 @@ https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="04 - KIDS",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/SpongeBob-Logo.png" group-title="04 - KIDS",Bob Esponja Calça Quadrada
-https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
-
 #EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="04 - KIDS",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
@@ -240,6 +237,9 @@ http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPW0t08FtYsiN-LzAvgatHjc8/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="WOLVERINE E OS X-MEN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgMFhJQLQzsZtKk1fuZgSpkmVdYqAp1npUp43WXwUVznjjccSwsa1kmP0LQ_Cpz1UDbVgA3qTRtbbY1_8s9bFzLItRqUnlqMHGxIDsaxHE3OC4bRyc_lYoZKHGeJl6HzLmwAhFGhKnjK5b5e7PQEdrHDB5DpGJXvHwnhtWqPn-JxQsGVWVP0t9iZIwx_w" group-title="12 - DESENHOS",WOLVERINE E OS X-MEN
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1422.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv1u30P3WoH2b4TCh4pMhk_djtOe-XO52isghutsA8TQghQRztCcDu9Qdi696q5u6UyLvMQgmFP8muPZrlmp1Nh1gIEFkeKqeKWn7vDdBaXILvgpNXjD1vXm6wn4gEtYgsfx5yacSPnWnbBhjHjhCUuzhElOWFVo7kfS3KMTz9AfoKQ3oLTNtGLN0AdA/s320/logo-canais-desenhoPrancheta-2-copiar-6.png" group-title="12 - DESENHOS",Bob Esponja Calça Quadrada
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RICK AND MORTY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPdP-ziE9ezxbg45H21_vFKy3uz2nChYa-3_vmGD2wxuR9qiV1UeusltkpcLABxRYcLIR2HUhDwj5VAQPxdBMgSqXicTfkUEvBX4os0JXgexMfc7_1rEZrpZBnVz89OdoryHsJekJXi0eONHPrdSmPcAPcJtMKHVGZlTEomSzyA10PlkIujI1LcxhtGA" group-title="12 - DESENHOS",RICK AND MORTY
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1516.ts
