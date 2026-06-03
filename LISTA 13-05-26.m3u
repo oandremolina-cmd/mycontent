@@ -78,7 +78,7 @@ http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ir6naDSxV9kgJCIrV-fzv3XAq_-IWsTeCt8
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="04 - KIDS",Cartoon Network
-http://on.conecty.in:80/Andre1molina/zQStqAZa/43.ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8im1BM1qWk82dtAuXuHWI2m8w1Vyw8D2w5uPwMFT_DGHU/ts
 
 #EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
@@ -99,7 +99,7 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/1524.ts
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1536.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgbWOH60L0RNbPFR1v8AAyB1WGkZOsau5NRxzWUszzEYFCppvBVtEm9sckfcs-Q-yAiA-ypO5LKfndQ96ycg73uX95Qee13TJImuZd9uuXMN9g1DBDaK3EFE4ejB8ypGV5WBx5jjydqEU7bfLw0FL5y0zz8hXMMNFW4O9RBXFIMdxHYvBtS19Ra-czcCA" group-title="05 - SÉRIES",Eu, a Patroa e as Crianças
-http://on.conecty.in:80/Andre1molina/zQStqAZa/1466.ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iuSnLNI48YgPcYbKJxHzqQUIKuQufloPgQi-fmWalqiq/ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.iCarly" tvg-name="iCarly" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxI_eWZW2ZBXSlZqX0P2IJO0gN-2yMIJpzM4yhaATKRGNElBES3oYoR6_OHHi1rbpRp7PrssbN2QnYEJvmPJl0FJn-dFqpAbR0nqfZd0zZlJjVmt24-Te6QaSdw1F9mRhwqvR0mCg3Ebu3_Sqb4Gci0GhKRAUXmWY0eJCO7KIHmFPY6yyoR6NcPT2pNQ" group-title="05 - SÉRIES",iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
@@ -367,3 +367,18 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray ZenLIFE  
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13552.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
+http://srvunion.com:8880/live/88522/2disp/13517.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
+rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.html
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
+http://sv1.redeg10.com:8880/1485744342/744342/434
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
+http://vvraw.com:2082/Altair567/356738473/13125
