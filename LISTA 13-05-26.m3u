@@ -2,14 +2,14 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo RJ FHD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCTAjlHT5pwsXewjDXq4RlIF/ts
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo Rio FHD
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo HD
 http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCQJXJCpxPesMBhsQzm4FHJT/ts
 
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iuwFCnTZsrKMojK7WJXFeVFTa9WjQAhLY4T2iuA_rEFa/ts
+https://www.youtube.com/watch?v=ABVQXgr2LW4
 
 #EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="01 - TV ABERTA",Band
 http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ikXeQWenM0oR9CrJGbPhj93z62G8QlKHfAQ894HsSVMu/ts
