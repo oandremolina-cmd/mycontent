@@ -2,18 +2,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 xui-id="12583628" tvg-id="Globo RJ FHD" tvg-name="GLOBO RJ - FHD" tvg-logo="http://tigero.uk:80/images/21d507eb53f0b306d720ac06b36bdf08.png" group-title="00 - GLOBO",GLOBO RJ - FHD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCTAjlHT5pwsXewjDXq4RlIF/ts
-#EXTINF:-1 xui-id="12583629" tvg-id="Globo RJ FHD" tvg-name="GLOBO RJ HD" tvg-logo="http://tigero.uk:80/images/21d507eb53f0b306d720ac06b36bdf08.png" group-title="00 - GLOBO",GLOBO RJ HD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCQJXJCpxPesMBhsQzm4FHJT/ts
-#EXTINF:-1 xui-id="12583924" tvg-id="Globo RJ FHD" tvg-name="Globo Rio (ALT)" tvg-logo="http://tigero.uk:80/images/3500c11522343a221050b49d02b1af6a.png" group-title="00 - GLOBO",Globo Rio (ALT)
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ihcaYx-MgSJ78fewnOZvMGyKrQ8RKTl7jVBfrNmnMNm3/ts
-#EXTINF:-1 xui-id="12583925" tvg-id="Globo RJ FHD" tvg-name="Globo Rio FHD" tvg-logo="http://tigero.uk:80/images/21d507eb53f0b306d720ac06b36bdf08.png" group-title="00 - GLOBO",Globo Rio FHD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ihcaYx-MgSJ78fewnOZvMGx32CuKsTXNhL0PN_4b2c-3/ts
-#EXTINF:-1 xui-id="12583926" tvg-id="Globo RJ FHD" tvg-name="Globo Rio HD" tvg-logo="http://tigero.uk:80/images/21d507eb53f0b306d720ac06b36bdf08.png" group-title="00 - GLOBO",Globo Rio HD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ihcaYx-MgSJ78fewnOZvMGxuEt0sdePLv9ygnAKO9eb-/ts
-#EXTINF:-1 xui-id="12583927" tvg-id="Globo RJ FHD" tvg-name="Globo Rio SD" tvg-logo="http://tigero.uk:80/images/21d507eb53f0b306d720ac06b36bdf08.png" group-title="00 - GLOBO",Globo Rio SD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ihcaYx-MgSJ78fewnOZvMGy9wK
 
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo Rio FHD
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
