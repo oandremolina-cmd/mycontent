@@ -1,14 +1,15 @@
+
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo Rio FHD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCQJXJCpxPesMBhsQzm4FHJT/ts
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo FHD
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCTAjlHT5pwsXewjDXq4RlIF/ts
 
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo HD
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCQJXJCpxPesMBhsQzm4FHJT/ts
 
-#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT RJ
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iuwFCnTZsrKMojK7WJXFeVFqqW_Hq8EbweJh3EuEF1El/ts
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iuwFCnTZsrKMojK7WJXFeVFTa9WjQAhLY4T2iuA_rEFa/ts
 
 #EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="01 - TV ABERTA",Band
 http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ikXeQWenM0oR9CrJGbPhj93z62G8QlKHfAQ894HsSVMu/ts
@@ -26,10 +27,10 @@ http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioCRhATC2mUQOMlD3DRpGGPr5MuB1rU6_Wp
 https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="02 - NEWS",Globo News FHD 
-http://on.conecty.in:80/Andre1molina/zQStqAZa/166.ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8inx-CmTScKEmibfrLH_9aZqBbTjXlmnez3pSspPtPt1G/ts
 
 #EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="02 - NEWS", Globo News HD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8irqVw8oZr6-PWV7TemeZS-1sr6By2_6FDE_D3ZWfIELB/ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8irqVw8oZr6-PWV7TemeZS-01MGNg-qbn7ml2Q3pu3oBE/ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="02 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -54,7 +55,7 @@ https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlis
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="lch214" tvg-name="GNT" tvg-logo="https://onebigforx.com/gnt.png" group-title="03 - VARIEDADES",GNT
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iu2ayb7dxebxHbhFWVXiuJGAVjHEZhsrDz9BWe_JsFOo/ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iu2ayb7dxebxHbhFWVXiuJEfotlLv_LuKw1Ui_LHSJFs/ts
 
 #EXTINF:-1 tvg-id="lg-br-192-diatv" tvg-name="Dia TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-uJD3BpsKJRmi_NCVIDNtRFy-R8mQcJNAqqEaSASMU6BZbr_y-NlEh185kYpGNHp9cBdklRrsdF0Xi2dv9-GPAvR3nmJkjmt41Cadmwirv43xTC7IKshFIQID2OHrzYkbfQv_S83TPwtipYr0N6gJoI2_1kQDy46TgRBtQnpN0mmfMlFb1FqC5m6OA/s1600/Logo%20(2).png" group-title="03 - VARIEDADES" tvg-chno="1142" provider="lg", Dia TV
 https://amg19706-diatv-amg19706c1-lg-br-9111.playouts.now.amagi.tv/playlist/amg19706-diatv-diatv-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]
@@ -78,7 +79,7 @@ http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ir6naDSxV9kgJCIrV-fzv3XAq_-IWsTeCt8
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="04 - KIDS",Cartoon Network
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8im1BM1qWk82dtAuXuHWI2m8w1Vyw8D2w5uPwMFT_DGHU/ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8itw4AJHidbA9h1EYg2OpcGGtZZ6n_nkKwDmUoMz7h5_5/ts
 
 #EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
@@ -108,9 +109,10 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjnZjV9xw7tbkimIC7S9D8CYMrkEmmAvcrSXwaZR6pChDubXRnmNdICQDlbJMrCIIky0HyrXi2fp9EDpCqShn6yLP7IFfd2vQXRlBxIgkWZw0E8ZPAv9yxnZ7aTcW_YFTBEYaxl7BnwbyCpaTlbgWtQtJhLYKZMoMoHwVE7todadT_bI2fq02QpOh55PQ" group-title="05 - SÉRIES",Chaves
-http://on.conecty.in:80/Andre1molina/zQStqAZa/1489.ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iuSnLNI48YgPcYbKJxHzqQWb8ewUQCWmXR1Ya5vF9hog/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjUMO7l8MCA9x2kF2OiU8flZaXU2bxHAASjAA561vEnTqVAouMbOl1chflI89-LXBgxzQwdJ6RmF4D9EBg3TFp2vcjLaT6V5a-b2vf46cefvyYketYLPymKv79CHAr2FwlxhSaHCP01cx1lQriQhvkIdcaswIQrMn5aATivuC2Ac4rhyJdGfQzfo0Gdew" group-title="05 - SÉRIES",Chapolin
+
 
 #EXTINF:-1 tvg-id="git-iptv-" tvg-name="A Feiticeira"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfDnleNguJ3OV1QJXHGKAjAb2CoX4xhPWMlmG7Xhx8sl-rs6l7xCRI0XH-ZhQpDQlc-wGMJAJX9a9DZzZsf-7RGDd15XcuZT9u-l8U2gr7AAjmY_mE4ciKw_jJ6iF10_-Fh1IjsiFt_naXU2ilEPLi5q5ledmj7O6llYtBa_m7QwFenIREc87zeLISlA/s320/logo-canais-desenhoPrancheta-3-copiar-5.png" group-title="05 - SÉRIES" tvg-chno="1553" provider="git_iptv",A Feiticeira
 https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
@@ -141,10 +143,10 @@ http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioowNR4H9Vd59xqCdfeEC_JX5ekKlhptyXN
 http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ivMR1lJnzFqmzfOKS5QkPQz65bVsjjrXMZJOZauKKcx9/ts
 
 #EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax " tvg-logo="https://onebigforx.com/cinemax.png" group-title="06 - FILMES",Cinemax 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioCRhATC2mUQOMlD3DRpGGPfbq_lIZe_QkHTB9ZYpZ_E/ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioCRhATC2mUQOMlD3DRpGGNywf0FpSp4xXWekEq2n9XG/ts
 
 #EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV " tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="06 - FILMES",Universal Channel TV 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioCEFT4QBm1u2y8SXLs7Fo4PMpd1f4HISAw1Jac8jwFv/ts
+http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ivMR1lJnzFqmzfOKS5QkPQz65bVsjjrXMZJOZauKKcx9/ts
 
 #EXTINF:-1 tvg-id="lch149" tvg-name="History " tvg-logo="https://onebigforx.com/history.png" group-title="07 - DOC",History 
 
@@ -192,6 +194,9 @@ https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="08 - MÚSICA",Qello Concerts by Stingray 
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 xui-id="821" tvg-id="" tvg-name="BEE GEESS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGSWc9AXIA_iac2Puf9qYw3UA_KPTmiQRc4YRtP4Y5hHc28kduvRhNbqWFBVP3L1hOfcJhFnztshxfaCuwd6D-6bXIL62GEQbFQFEWtNt5pJT11wLfpl-B88CHOzRb2t9qWC79fKXaSZzjFFSwXoI5gIAn6nMraFNHqIJtieTFEEwDBPCo0K5iA4oXw/s1600/beegees-logo__1_-removebg-preview.png" group-title="08 - MÚSICA", BEE GEES
+http://avontz.fun:80/play/BAB9bgJCVhywQuLVkUOPWxutq8oEC6PXXtl9NhxOMyg/ts
 
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="09 - FOOD",Tastemade 
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
@@ -367,18 +372,3 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="14 - STYNGRAY RADIO",Stingray ZenLIFE  
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13552.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
-http://srvunion.com:8880/live/88522/2disp/13517.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
-rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.html
-
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
-http://sv1.redeg10.com:8880/1485744342/744342/434
-
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no pedaço" tvg-logo="https://unidosdavilla.webnode.com.br/_files/200000599-91e7a92e18/5550023bf8.jpg" group-title="UM MALUCO NO PEDAÇO"
-http://vvraw.com:2082/Altair567/356738473/13125
