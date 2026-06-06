@@ -2,7 +2,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo FHD
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo RJ FHD
 http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iqmcnMk-jdRhBGWwsojXXCTAjlHT5pwsXewjDXq4RlIF/ts
 
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo HD
