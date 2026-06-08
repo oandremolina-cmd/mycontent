@@ -2,19 +2,19 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="br#redeglobo" tvg-name="GLOBO 4K" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO",GLOBO 4K
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO 4K" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO",GLOBO 4K
 http://on.conecty.in:80/Andre1molina/zQStqAZa/171.ts
 
-#EXTINF:-1 tvg-id="br#rede--globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO",GLOBO FHD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO",GLOBO FHD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81637.ts
 
-#EXTINF:-1 tvg-id="brrede-globo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO",GLOBO HD
+#EXTINF:-1 tvg-id="br#rede-globobo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO",GLOBO HD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/172.ts
 
-#EXTINF:-1 tvg-id="rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO" GLOBO SD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - GLOBO" GLOBO SD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81638.ts
 
-#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="02 - TV ABERTA",SBT
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="02 - TV ABERTA",SBT
 http://on.conecty.in:80/Andre1molina/zQStqAZa/691.ts
 
 #EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="02 - TV ABERTA",Band
@@ -23,7 +23,7 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/81736.ts
 #EXTINF:-1 tvg-id="lg-br-144-pluto-tv-canal-uol" tvg-name="Canal UOL" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="02 - TV ABERTA" tvg-chno="1126" provider="lg",Canal UOL
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="02 - TV ABERTA",TV Cultura
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="02 - TV ABERTA",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil  " tvg-logo="https://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="02 - TV ABERTA"",Canal Brasil 
@@ -38,7 +38,7 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/165.ts
 #EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="03 - NOTÍCIAS", Globo News HD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81629.ts
 
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="03 - NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="lch4068" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="03 - NOTÍCIAS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lg-br-130-sbt-news" tvg-name="130 SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SBT_News_logo.svg/1280px-SBT_News_logo.svg.png" group-title="03 - NOTÍCIAS" tvg-chno="1116" provider="lg",130 SBT News
@@ -66,13 +66,13 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/191.ts
 #EXTINF:-1 tvg-id="lch215" tvg-name="Multishow " tvg-logo="https://www.fontedecanais.me/logos/canais/multishow.png" group-title="04 - VARIEDADES",Multishow
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1640.ts
 
-#EXTINF:-1 tvg-id="lg-br-192-diatv" tvg-name="Dia TV" tvg-logo="https://www.fontedecanais.me/logos/canais/hgtv.png" group-title="04 - VARIEDADES" tvg-chno="1142" provider="lg", Dia TV
+#EXTINF:-1 tvg-id="lg-br-192-diatv" tvg-name="Dia TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-uJD3BpsKJRmi_NCVIDNtRFy-R8mQcJNAqqEaSASMU6BZbr_y-NlEh185kYpGNHp9cBdklRrsdF0Xi2dv9-GPAvR3nmJkjmt41Cadmwirv43xTC7IKshFIQID2OHrzYkbfQv_S83TPwtipYr0N6gJoI2_1kQDy46TgRBtQnpN0mmfMlFb1FqC5m6OA/s1600/Logo%20(2).png" group-title="04 - VARIEDADES" tvg-chno="1142" provider="lg", Dia TV
 https://amg19706-diatv-amg19706c1-lg-br-9111.playouts.now.amagi.tv/playlist/amg19706-diatv-diatv-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]
 
 #EXTINF:-1 tvg-id="lch771" tvg-name="h&h " tvg-logo="https://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="04 - VARIEDADES",h&h
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81836.ts
 
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV " tvg-logo="https://www.fontedecanais.me/logos/canais/hgtv.png" group-title="04 - VARIEDADES",HGTV
+#EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV " tvg-logo="https://www.fontedecanais.me/logos/canais/hgtv.png" group-title="04 - VARIEDADES",HGTV
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81680.ts
 
 #EXTINF:-1 tvg-id="lg-br-236-homeful" tvg-name="Homeful" tvg-logo="https://image.xumo.com/v1/channels/channel/99992530/600x200.png?type=white_cropped" group-title="04 - VARIEDADES" tvg-chno="1153" provider="lg",Homeful
@@ -87,7 +87,7 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/81772.ts
 #EXTINF:-1 tvg-id="lch149" tvg-name="History 2" tvg-logo="https://onebigforx.com/history2.png" group-title="04 - VARIEDADES",History 2
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81772.ts
 
-#EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name=" TLC" tvg-logo="https://www.fontedecanais.me/logos/canais/tlc.png" group-title="04 - VARIEDADES", TLC
+#EXTINF:-1 xui-id="424" tvg-id="lch1252" tvg-name=" TLC" tvg-logo="https://www.fontedecanais.me/logos/canais/tlc.png" group-title="04 - VARIEDADES", TLC
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81774.ts
 
 #EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem " tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="04 - VARIEDADES",Modo Viagem 
@@ -166,13 +166,13 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/222.ts
 #EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix  " tvg-logo="https://www.fontedecanais.me/logos/canais/megapix.png" group-title="08 - FILMES",MegaPix 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1642.ts
 
-#EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="Studio Universal" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="08 - FILMES",> Studio Universal
+#EXTINF:-1 xui-id="230" tvg-id="lch2080" tvg-name="Studio Universal" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="08 - FILMES",Studio Universal
 http://on.conecty.in:80/Andre1molina/zQStqAZa/359.ts
 
 #EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax " tvg-logo="https://www.fontedecanais.me/logos/canais/cinemax.png" group-title="08 - FILMES",Cinemax 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/47.ts
 
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV " tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="08 - FILMES",Universal Channel TV 
+#EXTINF:-1 tvg-id="lch936" tvg-name="Universal Channel TV " tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="08 - FILMES",Universal Channel TV 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81795.ts
 
 #EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="12 - MÚSICA",Totalmusic
