@@ -2,16 +2,16 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO 4K" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO",GLOBO 4K
+#EXTINF:-1 tvg-id="br#redeglobo" tvg-name="GLOBO 4K" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO",GLOBO 4K
 http://on.conecty.in:80/Andre1molina/zQStqAZa/171.ts
 
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO FHD
+#EXTINF:-1 tvg-id="br#rede--globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO FHD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81637.ts
 
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ HD
+#EXTINF:-1 tvg-id="brrede-globo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ HD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/172.ts
 
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ SD 
+#EXTINF:-1 tvg-id="rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ SD 
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81638.ts
 
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT
