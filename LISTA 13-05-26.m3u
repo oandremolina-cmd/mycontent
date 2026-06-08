@@ -5,13 +5,13 @@
 #EXTINF:-1 tvg-id="br#redeglobo" tvg-name="GLOBO 4K" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO",GLOBO 4K
 http://on.conecty.in:80/Andre1molina/zQStqAZa/171.ts
 
-#EXTINF:-1 tvg-id="br#rede--globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO FHD
+#EXTINF:-1 tvg-id="br#rede--globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO",GLOBO FHD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81637.ts
 
-#EXTINF:-1 tvg-id="brrede-globo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ HD
+#EXTINF:-1 tvg-id="brrede-globo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO",GLOBO HD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/172.ts
 
-#EXTINF:-1 tvg-id="rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ SD 
+#EXTINF:-1 tvg-id="rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO" GLOBO SD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81638.ts
 
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT
@@ -61,7 +61,7 @@ https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlis
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="lch214" tvg-name="GNT" tvg-logo="https://onebigforx.com/gnt.png" group-title="03 - VARIEDADES",GNT
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iu2ayb7dxebxHbhFWVXiuJEfotlLv_LuKw1Ui_LHSJFs/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/191.ts
 
 #EXTINF:-1 tvg-id="lg-br-192-diatv" tvg-name="Dia TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-uJD3BpsKJRmi_NCVIDNtRFy-R8mQcJNAqqEaSASMU6BZbr_y-NlEh185kYpGNHp9cBdklRrsdF0Xi2dv9-GPAvR3nmJkjmt41Cadmwirv43xTC7IKshFIQID2OHrzYkbfQv_S83TPwtipYr0N6gJoI2_1kQDy46TgRBtQnpN0mmfMlFb1FqC5m6OA/s1600/Logo%20(2).png" group-title="03 - VARIEDADES" tvg-chno="1142" provider="lg", Dia TV
 https://amg19706-diatv-amg19706c1-lg-br-9111.playouts.now.amagi.tv/playlist/amg19706-diatv-diatv-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]
@@ -75,7 +75,7 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/81680.ts
 #EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name=" TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="03 - VARIEDADES", TLC
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81774.ts
 
-#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow " tvg-logo="https://onebigforx.com/multishow.png" group-title="03 - VARIEDADES",Multishow
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="03 - VARIEDADES",Multishow
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1640.ts
 
 #EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem " tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="03 - VARIEDADES",Modo Viagem 
@@ -84,21 +84,17 @@ http://on.conecty.in:80/Andre1molina/zQStqAZa/448.ts
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiYYSS6wuIG6151ptnsIHFOBvErimpn0RmfzBFt9BcggN7M-r29YJeEQft3m9VMyxN1Y-f9nYNxG2QyaJYkNju3FTqPA5ByydQKrqjjnhbfh0A4g7nn91HwyM_XoVpvUZx8rlIAjD3FEbrvKkL63hiWjITsQ1UpaAhnBbqhTqYb3NwDnq7jbEvFyueh1g" group-title="03 - VARIEDADES",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Symbol.png" group-title="04 - KIDS",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://www.pngall.com/wp-content/uploads/13/Cartoon-Network-Logo-PNG-Clipart.png" group-title="04 - KIDS",Cartoon Network
 http://on.conecty.in:80/Andre1molina/zQStqAZa/44.ts
 
-
-#EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
+#EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
-#EXTINF:-1 tvg-id="lg-br-630-nickelodeon-teen" tvg-name="630 Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logoAlt_1767888207915.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1238" provider="lg",630 Nickelodeon Teen
+#EXTINF:-1 tvg-id="lg-br-630-nickelodeon-teen" tvg-name="630 Nick Teen" tvg-logo="https://images.seeklogo.com/logo-png/32/2/teen-nick-logo-png_seeklogo-327552.png" group-title="04 - KIDS" tvg-chno="1238" provider="lg",630 Nickelodeon Teen
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 
-#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="04 - KIDS",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://05f8c06c77.cbaul-cdnwnd.com/22383f87b62f8b4d55985596bd381b99/200000003-a1682a1684/dbizs4t-e18625cd-5dbd-4e95-a6c4-c6f38a21b57a.png?ph=05f8c06c77" group-title="04 - KIDS",Nickelodeon Clássico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-
-#EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="04 - KIDS",Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjex9NOHD2Ugek-KNcYYDRhc_bUwANCC__XY-y62U263G_WLnvTeVewxYuorzVUUPazD-w6ugu77i7xoTWWm5OsKQ6lniSW_2tjMnsosCT2Rvk2Tth_YC-MWaPs-gg-Tx5ctq-aTaeWYI9nMx4-0Gb9PQpzrCyLxRL-_dYamZZlRneCraIm_Jr8utYzxg" group-title="05 - SÉRIES",Um Maluco no Pedaço
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1524.ts
@@ -143,19 +139,29 @@ https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 http://on.conecty.in:80/Andre1molina/zQStqAZa/1461.ts
 
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png" group-title="06 - FILMES",HBO
+http://on.conecty.in:80/Andre1molina/zQStqAZa/1647.ts
+
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO 2" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO_2.png" group-title="06 - FILMES",HBO 2
+http://on.conecty.in:80/Andre1molina/zQStqAZa/222.ts
+
 #EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="06 - FILMES",MegaPix 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioowNR4H9Vd59xqCdfeEC_JX5ekKlhptyXNGY3u0ouBL/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/1642.ts
 
 #EXTINF:-1 xui-id="230" tvg-id="Studio Universal FHD" tvg-name="Studio Universal" tvg-logo="https://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="06 - FILMES",> Studio Universal
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ivMR1lJnzFqmzfOKS5QkPQz65bVsjjrXMZJOZauKKcx9/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/359.ts
 
-#EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax " tvg-logo="https://onebigforx.com/cinemax.png" group-title="06 - FILMES",Cinemax 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioCRhATC2mUQOMlD3DRpGGNywf0FpSp4xXWekEq2n9XG/ts
+#EXTINF:-1 tvg-id="lch932" tvg-name="Cinemax " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="06 - FILMES",Cinemax 
+http://on.conecty.in:80/Andre1molina/zQStqAZa/47.ts
 
 #EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV " tvg-logo="https://www.fontedecanais.me/logos/canais/universaltv.png" group-title="06 - FILMES",Universal Channel TV 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ivMR1lJnzFqmzfOKS5QkPQz65bVsjjrXMZJOZauKKcx9/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81795.ts
 
-#EXTINF:-1 tvg-id="lch149" tvg-name="History " tvg-logo="https://onebigforx.com/history.png" group-title="07 - DOC",History 
+#EXTINF:-1 tvg-id="lch149" tvg-name="History " tvg-logo="https://onebigforx.com/history.png" group-title="07 - DOC",History
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81772.ts
+
+#EXTINF:-1 tvg-id="lch149" tvg-name="History 2" tvg-logo="https://onebigforx.com/history2.png" group-title="07 - DOC",History 2
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81772.ts
 
 #EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="08 - MÚSICA",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
