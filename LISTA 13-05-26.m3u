@@ -2,18 +2,23 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO 4K" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO",GLOBO 4K
+http://on.conecty.in:80/Andre1molina/zQStqAZa/171.ts
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo Rio FHD
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO FHD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81637.ts
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="01 - TV ABERTA",Globo HD
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO RJ HD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ HD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/172.ts
+
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GLOBO RJ SD" tvg-logo="https://www.fontedecanais.me/logos/canais/globo.png" group-title="00 - GLOBO RJ SD 
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81638.ts
 
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" tvg-logo="https://www.fontedecanais.me/logos/canais/sbt.png" group-title="01 - TV ABERTA",SBT
-https://www.youtube.com/watch?v=ABVQXgr2LW4
+http://on.conecty.in:80/Andre1molina/zQStqAZa/691.ts
 
 #EXTINF:-1 tvg-id="br#band-hd" tvg-name="Band RJ FHD" tvg-logo="https://www.fontedecanais.me/logos/canais/band.png" group-title="01 - TV ABERTA",Band
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ikXeQWenM0oR9CrJGbPhj93z62G8QlKHfAQ894HsSVMu/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81736.ts
 
 #EXTINF:-1 tvg-id="lg-br-144-pluto-tv-canal-uol" tvg-name="Canal UOL" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="01 - TV ABERTA" tvg-chno="1126" provider="lg",Canal UOL
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
@@ -28,10 +33,10 @@ http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ioCRhATC2mUQOMlD3DRpGGPr5MuB1rU6_Wp
 https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="02 - NEWS",Globo News FHD 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8inx-CmTScKEmibfrLH_9aZqBbTjXlmnez3pSspPtPt1G/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/165.ts
 
 #EXTINF:-1 xui-id="255333" tvg-id="" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="02 - NEWS", Globo News HD
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8irqVw8oZr6-PWV7TemeZS-01MGNg-qbn7ml2Q3pu3oBE/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81629.ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="02 - NEWS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -62,25 +67,25 @@ http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iu2ayb7dxebxHbhFWVXiuJEfotlLv_LuKw1
 https://amg19706-diatv-amg19706c1-lg-br-9111.playouts.now.amagi.tv/playlist/amg19706-diatv-diatv-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]
 
 #EXTINF:-1 tvg-id="lch771" tvg-name="h&h " tvg-logo="https://onebigforx.com/discoveryhomeandhealth.png" group-title="03 - VARIEDADES",h&h
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8inyCVgyG8Qvkz2LTJ1vbBHRoAruEjME1wK3m7Omd5S5s/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81836.ts
 
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV " tvg-logo="https://onebigforx.com/hgtv.png" group-title="03 - VARIEDADES",HGTV
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8iv6FlUkM5W8f5strKzXTeWkIyTb7AsNV3tmQysr0YFAm/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81680.ts
 
 #EXTINF:-1 xui-id="424" tvg-id="TLC FHD" tvg-name=" TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="03 - VARIEDADES", TLC
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8inAiKZQaLDSU9ule5tSnRINcBwYyRj4MZQenWY7Tqd2W/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81774.ts
 
 #EXTINF:-1 tvg-id="lch215" tvg-name="Multishow " tvg-logo="https://onebigforx.com/multishow.png" group-title="03 - VARIEDADES",Multishow
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ir6naDSxV9kgJCIrV-fzv3U0P61-PUZ0K5f_MCe463ds/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/1640.ts
 
 #EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem " tvg-logo="https://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="03 - VARIEDADES",Modo Viagem 
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8ir6naDSxV9kgJCIrV-fzv3XAq_-IWsTeCt86LZEsfurX/ts
+http://on.conecty.in:80/Andre1molina/zQStqAZa/448.ts
 
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiYYSS6wuIG6151ptnsIHFOBvErimpn0RmfzBFt9BcggN7M-r29YJeEQft3m9VMyxN1Y-f9nYNxG2QyaJYkNju3FTqPA5ByydQKrqjjnhbfh0A4g7nn91HwyM_XoVpvUZx8rlIAjD3FEbrvKkL63hiWjITsQ1UpaAhnBbqhTqYb3NwDnq7jbEvFyueh1g" group-title="03 - VARIEDADES",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://onebigforx.com/cartoonnetwork.png" group-title="04 - KIDS",Cartoon Network
-http://tigero.uk:80/play/rfLyVp6dyXTYXsBRnrF8im1BM1qWk82dtAuXuHWI2m8w1Vyw8D2w5uPwMFT_DGHU/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network " tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Symbol.png" group-title="04 - KIDS",Cartoon Network
+http://on.conecty.in:80/Andre1molina/zQStqAZa/44.ts
 
 
 #EXTINF:-1 tvg-id="lg-br-617-nickelodeon-toons" tvg-name="617 Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="04 - KIDS" tvg-chno="1230" provider="lg",617 Nickelodeon Toons
@@ -209,7 +214,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="11 - REALITY",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MasterChef Brasil Profissionais" tvg-logo="https://images.pluto.tv/channels/681110afc188aa63faa147e0/solidLogoSVG_1749226372474.svg" group-title="11 - REALITY" tvg-chno="1597" provider="git_iptv",MasterChef Brasil Profissionais
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MasterChef Brasil Profissionais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/MasterchefSpain-logo.png" group-title="11 - REALITY" tvg-chno="1597" provider="git_iptv",MasterChef Brasil Profissionais
 https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8#EXTINF:-1 
 
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us@Brazil" tvg-logo="https://i.imgur.com/sQn6vvh.png" group-title="11 - REALITY",O Encantador de Cães
@@ -221,16 +226,16 @@ https://dbf2e4c1e33d49d7b1a2feb7efb03070.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="lg-br-356-mtv-catfish" tvg-name="356 MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="11 - REALITY" tvg-chno="1177" provider="lg",356 MTV Catfish
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
 
-tvg-id="git-iptv-" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1554" provider="git_iptv",Acumuladores Obsessivos
+tvg-id="git-iptv-" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/solidLogoPNG.png" group-title="11 - REALITY" tvg-chno="1554" provider="git_iptv",Acumuladores Obsessivos
 https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8 
 
-#EXTINF:-1 tvg-id="lg-br-355-pluto-tv-negócio-fechado" tvg-name="Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1176" provider="lg",355 Pluto TV Negócio Fechado
+#EXTINF:-1 tvg-id="lg-br-355-pluto-tv-negócio-fechado" tvg-name="Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoPNG.png" group-title="11 - REALITY" tvg-chno="1176" provider="lg",355 Pluto TV Negócio Fechado
 https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1602" provider="git_iptv",MTV Catfish (720p)
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/solidLogoPNG.png" group-title="11 - REALITY" tvg-chno="1602" provider="git_iptv",MTV Catfish (720p)
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Just Tattoo of Us" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/solidLogoSVG.svg" group-title="11 - REALITY" tvg-chno="1607" provider="git_iptv",MTV Just Tattoo of Us
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="MTV Just Tattoo of Us" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/solidLogoPNG.png" group-title="11 - REALITY" tvg-chno="1607" provider="git_iptv",MTV Just Tattoo of Us
 https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
 
 #EXTINF:-1 tvg-id="git-iptv-" tvg-name="Rupaul's Drag Race" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/80b645110021931.5fe1c95fba17e.png" group-title="11 - REALITY" tvg-chno="1612" provider="git_iptv",MTV Rupaul's Drag Race
@@ -242,10 +247,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="10 - SPORTS",Ge TV
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="11 - SPORTS",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="10 - SPORTS",Red Bull TV
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="11 - SPORTS",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="10 - SPORTS",FIFA+
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 #EXTINF:-1 xui-id="495" tvg-id="Apenas um Show 24H" tvg-name="APENAS UM SHOW" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg2-A1Hq6AArNEumydT1z644YAs3y1ZIcyEnUeWWQOXM5dBtlTpyjB643bGVvn8eIBkvgEaYzT2nr92XZcIEc1UX6ZY7skcjsIWiR2NoPTY-Efmo9xofBqFSAlzrUyPFt8eySviAIf_TvBceyAUPaj8ylU0dELLfm-Vl5E__BQya-_GYCqQeMx4-BaAaQ" group-title="12 - DESENHOS",APENAS UM SHOW
