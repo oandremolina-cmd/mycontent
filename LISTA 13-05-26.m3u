@@ -87,13 +87,13 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63894c1965b8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiYYSS6wuIG6151ptnsIHFOBvErimpn0RmfzBFt9BcggN7M-r29YJeEQft3m9VMyxN1Y-f9nYNxG2QyaJYkNju3FTqPA5ByydQKrqjjnhbfh0A4g7nn91HwyM_XoVpvUZx8rlIAjD3FEbrvKkL63hiWjITsQ1UpaAhnBbqhTqYb3NwDnq7jbEvFyueh1g" group-title="04 - VARIEDADES",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
-#EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV " tvg-logo="https://www.claro.com.br/produtosclaro/tv/assets/images/logos/hgtv.png" group-title="CASA",HGTV
+#EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV " tvg-logo="https://www.claro.com.br/produtosclaro/tv/assets/images/logos/hgtv.png" group-title="05 - CASA",HGTV
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81680.ts
 
-#EXTINF:-1 tvg-id="lg-br-236-homeful" tvg-name="Homeful" tvg-logo="https://image.xumo.com/v1/channels/channel/99992530/600x200.png?type=white_cropped" tvg-chno="1153" provider="lg" group-title="CASA",Homeful
+#EXTINF:-1 tvg-id="lg-br-236-homeful" tvg-name="Homeful" tvg-logo="https://image.xumo.com/v1/channels/channel/99992530/600x200.png?type=white_cropped" tvg-chno="1153" provider="lg" group-title="05 - CASA",Homeful
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&ads.xumo_streamId=99992530&ads.channelId=99992530&ads.csid=lgchannels_br_homeful_ssai&ads.channelName=homeful_br&ads.xumo_contentName=HomefulBrazil&ads.xumo_contentId=3956&ads.xumo_providerName=HomefulBrazil&ads.xumo_providerId=3956&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Tastemade Casa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirYhYfSorQI1BwM2Rvi1_rBWszmkLH69difn8J2J-zELDm8EiGvSXRncYb3fzwc7ncfn9LptQ8JgapDwOjT_5Fq17eAbm8jBtcIBVfMhZAO_5GgiifndxwRca70DUx5P5HT0ZxR8P_dkTqTDdoJ0uZzWYGCCt4JozG-6qmhLgorIuMsfU0IPCjORqrBg/s320/TASTEMADECASA.png"  tvg-chno="1708" provider="git_iptv" group-title="CASA",Tastemade Casa (720p)
+#EXTINF:-1 tvg-id="git-iptv-" tvg-name="Tastemade Casa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirYhYfSorQI1BwM2Rvi1_rBWszmkLH69difn8J2J-zELDm8EiGvSXRncYb3fzwc7ncfn9LptQ8JgapDwOjT_5Fq17eAbm8jBtcIBVfMhZAO_5GgiifndxwRca70DUx5P5HT0ZxR8P_dkTqTDdoJ0uZzWYGCCt4JozG-6qmhLgorIuMsfU0IPCjORqrBg/s320/TASTEMADECASA.png"  tvg-chno="1708" provider="git_iptv" group-title="05 - CASA",Tastemade Casa (720p)
 https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
 
 #EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem " tvg-logo="https://mondrian.claro.com.br/channels/inverse/modo-viagem@3x.png" group-title="05 - VIAGEM",Modo Viagem 
