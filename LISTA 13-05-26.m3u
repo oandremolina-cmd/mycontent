@@ -5,8 +5,14 @@
 #EXTINF:-1 tvg-id="lch216" tvg-name="SporTV" tvg-logo="https://onebigforx.com/sportv1-2023.png" group-title="⚽ COPA DO MUNDO",SporTV 1 FHD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/347.ts
 
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="⚽ COPA DO MUNDO",Cazé TV
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="⚽ COPA DO MUNDO",Cazé TV 1 HD
 http://on.conecty.in:80/Andre1molina/zQStqAZa/85471.ts
+#EXTINF:-1 tvg-id="Loading" tvg-name="Cazé TV 1 HD [Alt]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="⚽ COPA DO MUNDO",Cazé TV 1 HD [Alt]
+http://on.conecty.in:80/Andre1molina/zQStqAZa/81687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="⚽ COPA DO MUNDO",Cazé TV 2 HD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/182528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="⚽ COPA DO MUNDO",Cazé TV 3 HD
+http://on.conecty.in:80/Andre1molina/zQStqAZa/182529.ts
 
 #EXTINF:-1 tvg-id="lg-br-801-nsports" tvg-name="N Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIGowvdmBAku3ceBynJJncTQrXIADBPbhz4usEBCVPnAmG2sAaprQ7s_bXH4hGMywQAiGKQcn77uEEXX2V5ugoJr9MJlCBJgF7oW20uxAjhZxHzVsfwqwv4mWBmYvKx2bvXbWhDyYiIhHm841QPr_RNpVsQmdJlag0MUyQXkbttQfIY9ODq9oMNvsd00ci/s320/Screenshot_231-removebg-preview.png" group-title="⚽ COPA DO MUNDO" tvg-chno="712" provider="lg",N Sports
 http://on.conecty.in:80/Andre1molina/zQStqAZa/81611.ts
